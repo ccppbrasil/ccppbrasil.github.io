@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Lanyon
 tagline:          'A Jekyll theme'
 description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+url:              http://ccppbrasil.github.io
 
 author:
   name:           'Mark Otto'
@@ -22,7 +22,7 @@ paginate_path:    blog/page:num
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://github.com/ccppbrasil/ccppbrasil.github.io
 
 prose:
   ignore:
