@@ -16,6 +16,7 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
+paginate_path:    blog/page:num
 
 # Custom vars
 version:          1.0.0
@@ -32,6 +33,7 @@ prose:
     - /_layouts
     - /_includes
     - /public
+    - /blog
   metadata:
     "":
       - name: "layout"
