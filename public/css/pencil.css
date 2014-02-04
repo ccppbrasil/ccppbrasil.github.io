@@ -1,0 +1,61 @@
+@font-face {
+  font-family:'Prose';
+    src:url('/public/fonts/prose-129b77953cd92a716f7e5224f4de015e.eot');
+    src:url('/public/fonts/prose-129b77953cd92a716f7e5224f4de015e.eot?#iefix') format('embedded-opentype'),
+        url('/public/fonts/prose-129b77953cd92a716f7e5224f4de015e.woff') format('woff');
+  font-weight:700;
+  font-style:normal;
+}
+
+.ico {
+  font-family:'Prose';
+  font-size:18px;
+}
+
+.ico.pencil {
+  position: absolute;
+  top: 1rem;
+  left: 3.5rem;
+  display: block;
+  width: 2.2rem;
+  padding: .14rem .65rem;
+  color: #505050;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.ico.pencil:before {
+  content: "\f114";
+  display: block;
+  width: 100%;
+  padding-top: .08rem;
+  padding-left: .1rem;
+  padding-bottom: .05rem;
+
+  /* Make the border inside the box */
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.ico.pencil:active {
+  color: #fff;
+  background-color: #505050;
+}
+
+@media (max-width: 30.1rem) {
+  .ico.pencil {
+    font-size:12px;
+    position: fixed;
+    width: 2.25rem;
+  }
+  .ico.pencil:before {
+    padding-top: .16rem;
+    padding-left: .2rem;
+    padding-bottom: .09rem;
+    border-top-width: .45rem;
+    border-bottom-width: .15rem;
+  }
+}
+
