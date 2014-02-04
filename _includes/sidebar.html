@@ -32,6 +32,7 @@
         document.getElementById('sidebar-tree').innerHTML = printSidebar(tree, repeatString('&nbsp', 6));
     </script>
 
+    <a class="sidebar-nav-item{% if page.title == "Sobre" %} active{% endif %}" href="/about/">Sobre</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">Repositório do site</a>
   </nav>
 
