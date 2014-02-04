@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
+title: Principal
 ---
 
-Howdy Ho!
