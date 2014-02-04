@@ -17,7 +17,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    <div id="sidebar_tree" />
+    <div id="sidebar-tree" ></div>
 
     <script type="text/javascript">
         var tree = { add : addUrl };
@@ -29,7 +29,7 @@
           {% endif %}
         {% endfor %}
 
-        document.getElementById('sidebar_tree').innerHTML = printSidebar(tree, repeatString('&nbsp', 6));
+        document.getElementById('sidebar-tree').innerHTML = printSidebar(tree, repeatString('&nbsp', 6));
     </script>
 
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">Repositório do site</a>
