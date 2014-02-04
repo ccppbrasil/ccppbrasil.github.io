@@ -50,3 +50,7 @@ function printSidebar(tree, indentation) {
 function repeatString(string, size) {
     return Array(size + 1).join(string);
 }
+
+function goToProse(repo, page) {
+    window.location = repo.replace(/^https?:\/\/[^\/]*\//i,'http://prose.io/#') + '/edit/master/' + page;
+}
