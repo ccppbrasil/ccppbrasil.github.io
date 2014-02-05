@@ -4,28 +4,18 @@ title: Sobre
 published: false
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Este site teve inicio por volta de 02/12/2005, quando
+[Rodrigo Strauss](https://github.com/rodrigostrauss) e
+[Wanderley Caloni](https://github.com/Caloni) sugeriram a criação de um grupo
+sobre C++. A idéia era fazer reuniões com as pessoas interessadas para trocar
+idéias. Como nem todos os interessados poderiam estar presentes,
+[Thiago Adams](http://www.thradams.com.br) sugeriu que fosse criada uma página
+na internet com uma espécie de log da reunião. A idéia foi evoluindo com várias
+sugestões, até que Hugo Parente sugeriu um wiki.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Mais tarde também foi criado o
+[grupo de discussão](https://groups.google.com/forum/#!forum/ccppbrasil) que
+contínua ativo com centenas de membros.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Eventualmente foi realizada a primeira reunião técnica e o interesse em formar
+um Grupo de Usuários surgiu. 
