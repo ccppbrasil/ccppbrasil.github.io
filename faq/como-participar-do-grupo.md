@@ -15,7 +15,7 @@ Você pode participar do grupo:
 no repositório genérico do grupo requisitando sua adição.
 - Frequentando nosso canal IRC
 [#ccppbrasil](irc://chat.freenode.net:6667/ccppbrasil) no freenode.
-- Editando o site você automaticamente se torna
+- [Editando o site](/faq/como-editar-o-site/) você automaticamente se torna
 [membro do time de editores](https://github.com/orgs/ccppbrasil/teams/editors)
 no GitHub.
 - Participando dos nossos encontros.
