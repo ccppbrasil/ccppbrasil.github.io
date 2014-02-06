@@ -50,13 +50,7 @@ images:
 
 ##8° Encontro de Programadores C & C++ do Brasil
 
-<div class="flexslider">
-  <ul class="slides">
-    {% for image in page.images.encontro-8 %}
-    <li> <img src="{{ image }}" /> </li>
-    {% endfor %}
-  </ul>
-</div>
+<div> {% assign images = page.images.encontro-8 %} {% include flexslider.html %} </div>
 
 ###Local
 Totvs S.A.
@@ -95,13 +89,7 @@ R. Teixeira da Silva, 647 - Paraíso
 
 ##5° Encontro de Programadores C & C++ do Brasil
 
-<div class="flexslider">
-  <ul class="slides">
-    {% for image in page.images.encontro-5 %}
-    <li> <img src="{{ image }}" /> </li>
-    {% endfor %}
-  </ul>
-</div>
+<div> {% assign images = page.images.encontro-5 %} {% include flexslider.html %} </div>
 
 ###Local
 Microsoft Informática Ltda
@@ -130,13 +118,7 @@ Auditórios 1 e 2
 
 ##4° Encontro de Programadores C & C++ do Brasil
 
-<div class="flexslider">
-  <ul class="slides">
-    {% for image in page.images.encontro-4 %}
-    <li> <img src="{{ image }}" /> </li>
-    {% endfor %}
-  </ul>
-</div>
+<div> {% assign images = page.images.encontro-4 %} {% include flexslider.html %} </div>
 
 ###Local
 SEPROSP (Sindicato das Empresas de Processamento de Dados e Serviços de
@@ -159,13 +141,7 @@ Rua Professor Tamandaré Toledo, 69 - 3. andar Itaim Bibi - São Paulo - SP
 
 ##3° Encontro de Programadores C & C++ do Brasil
 
-<div class="flexslider">
-  <ul class="slides">
-    {% for image in page.images.encontro-3 %}
-    <li> <img src="{{ image }}" /> </li>
-    {% endfor %}
-  </ul>
-</div>
+<div> {% assign images = page.images.encontro-3 %} {% include flexslider.html %} </div>
 
 ###Local
 APEOSP
