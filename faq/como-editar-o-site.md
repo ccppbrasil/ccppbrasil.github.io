@@ -12,8 +12,9 @@ editor online [Prose](http://prose.io).
 Se você ainda não é membro do
 [time de edição](https://github.com/orgs/ccppbrasil/teams/editors), requisite
 suas adições via *pull request*, ou
-[abra uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new)
-requisitando sua adição ao time.
+[abra uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new) com a
+label [editors-membership](https://github.com/ccppbrasil/ccppbrasil/issues?labels=editors-membership)
+no repositório genérico do grupo requisitando sua adição ao time.
 
 Para criar posts no blog, certifique-se de criar um arquivo no formato:
 

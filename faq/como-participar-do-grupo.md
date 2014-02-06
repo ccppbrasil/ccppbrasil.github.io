@@ -11,7 +11,7 @@ Você pode participar do grupo:
 - Sendo listado como [membro](https://github.com/orgs/ccppbrasil/members) da
 [organização no GitHub](https://github.com/orgs/ccppbrasil). Para isso, basta
 [abrir uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new) com a
-[label membership](https://github.com/ccppbrasil/ccppbrasil/issues?labels=membership)
+label [members-membership](https://github.com/ccppbrasil/ccppbrasil/issues?labels=members-membership)
 no repositório genérico do grupo requisitando sua adição.
 - Frequentando nosso canal IRC
 [#ccppbrasil](irc://chat.freenode.net:6667/ccppbrasil) no freenode.
