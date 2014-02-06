@@ -14,3 +14,32 @@ Se você ainda não é membro do
 suas adições via *pull request*, ou
 [abra uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new)
 requisitando sua adição ao time.
+
+Para criar posts no blog, certifique-se de criar um arquivo no formato:
+
+`/_posts/AAAA-MM-DD-<algum-nome-aqui>.md`
+
+O [_front-matter_](http://jekyllrb.com/docs/frontmatter/) básico necessário é:
+
+    ---
+    layout: post
+    title: "Primeiro _Post_"
+    published: true
+    ---
+
+Para uma página comum em algum subdiretório bastar criar um aquivo no formato:
+
+`/<um-caminho-ou-nada>/<algum-nome-aqui>.md`
+
+O _front-matter_ básico necessário é:
+
+    ---
+    layout: page
+    title: "Olá mundo!"
+    published: true
+    ---
+
+Páginas com _published false_ não aparecerão no menu automaticamente.
+
+A árvore do menu é baseada na estrutura de diretórios do site, exceto pelos
+diretórios ignorados, cujos nomes começam com `_`.
