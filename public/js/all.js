@@ -55,7 +55,7 @@ function goToProse(repo, page) {
     window.location = repo.replace(/^https?:\/\/[^\/]*\//i,'http://prose.io/#') + '/edit/master/' + page;
 }
 
-$(window).load(function() {
+$(document).ready(function() {
   $('.flexslider').flexslider({
     animation: "slide"
   });
