@@ -54,3 +54,9 @@ function repeatString(string, size) {
 function goToProse(repo, page) {
     window.location = repo.replace(/^https?:\/\/[^\/]*\//i,'http://prose.io/#') + '/edit/master/' + page;
 }
+
+$(window).load(function() {
+  $('.flexslider').flexslider({
+    animation: "slide"
+  });
+});
