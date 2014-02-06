@@ -60,6 +60,14 @@ Av Brás Leme, 1631, Casa Verde, São Paulo - SP
 ###Data
 17/09/2011
 
+| Atividade                                                                 | Palestrante           |
+| --------------------------------------------------------------------------|-----------------------|
+| Integrando Lua e C++                                                      | Vinicius Jarina       |
+| Desenvolvendo aplicações multi-plataforma em C++ para iOS e Android (NDK) | Gianni Rossi          |
+| C++11: Do que se trata e como ele vai facilitar a sua vida                | Rodrigo Strauss       |
+| Modelos de memória e porque você precisa saber disso                      | Rodrigo Kumpera       |
+| O Framework ROOT, não apenas para físicos                                 | Marcelo Zimbres Silva |
+
 ---
 
 ##7° Encontro de Programadores C & C++ do Brasil
