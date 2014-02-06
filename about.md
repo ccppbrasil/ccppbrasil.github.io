@@ -11,7 +11,7 @@ sobre C++. A idéia era fazer reuniões com as pessoas interessadas para trocar
 idéias. Como nem todos os interessados poderiam estar presentes,
 [Thiago Adams](http://www.thradams.com.br) sugeriu que fosse criada uma página
 na internet com uma espécie de log da reunião. A idéia foi evoluindo com várias
-sugestões, até que Hugo Parente sugeriu um wiki.
+sugestões, até que [Hugo Parente](https://github.com/hugopl) sugeriu um wiki.
 
 Mais tarde também foi criado o
 [grupo de discussão](https://groups.google.com/forum/#!forum/ccppbrasil) que
