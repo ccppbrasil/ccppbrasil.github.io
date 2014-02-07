@@ -1,0 +1,22 @@
+/* Fixes for FlexSlider on Lanyon */
+
+.flexslider {
+    line-height: normal;
+}
+
+.slides img {
+    border-radius: 0;
+    margin: 0;
+}
+
+/* Smaller fonts for hireables table */
+
+#hireables-table {
+  font-size: 12.8px;
+}
+@media (min-width: 38rem) {
+  #hireables-table {
+    font-size: 16px;
+  }
+}
+

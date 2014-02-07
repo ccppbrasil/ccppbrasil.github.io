@@ -57,7 +57,7 @@ function goToProse(repo, page) {
 
 // TODO Pagination: http://developer.github.com/guides/traversing-with-pagination
 // TODO OAuth or Caching/Cookies? http://developer.github.com/v3/oauth/
-// TODO Randomizar ordem
+// TODO Make order more random?
 
 function printHireables(organization) {
     var hireables = document.getElementById('hireables');
@@ -79,10 +79,23 @@ function printHireables(organization) {
 }
 
 function printHireableRow(hireable) {
+    var blog = hireable.blog;
+    var blog_normalized;
+    if (blog == null) {
+        blog = "";
+        blog_normalized = "";
+    } else {
+        var uri = new URI(blog);
+        if (!uri.protocol()) {
+            uri.protocol("http");
+        }
+        blog_normalized = uri.toString();
+    }
     var output =
     '    <tr>\n' +
     '      <td><a href="' + hireable.html_url  + '"><img src="'     + hireable.avatar_url + '" style="margin: 0" /></a></td>\n' +
     '      <td><a href="' + hireable.html_url  + '">'               + hireable.name       + '</a></td>\n'                       +
+    '      <td><a href="' + blog_normalized    + '">'               + blog                + '</a></td>\n'                       +
     '      <td style="text-align: center">'    + hireable.followers + '</td>\n'           +
     '      <td style="text-align: center">'    + hireable.following + '</td>\n'           +
     '    </tr>\n';
