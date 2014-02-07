@@ -7,7 +7,7 @@ title: Principal
   src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil">
 </img>
 
-##Bem-vindo ao C & C++ Brasil!
+##Bem-vindo(a) ao C & C++ Brasil!
 
 O Grupo é uma associação de profissionais, aficcionados, estudiosos e demais
 interessados nas linguagens de programação C e C++ e em tecnologias associadas;
