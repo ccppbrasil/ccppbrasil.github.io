@@ -108,19 +108,16 @@ Auditórios 1 e 2
 ###Data
 04/10/2008
 
-| Atividade                                          | Palestrante          | Horário     |
-|----------------------------------------------------|----------------------|-------------|
-| Keynote                                            | Otávio Pêcego Coelho | 09:00 09:30 |
-| Ferramentas para programação C++ para Windows      | Rodrigo Strauss      | 09:30 10:45 |
-| Coffe-Break                                        |                      | 10:45 11:00 |
-| Programando com Conceitos no novo C++              | Leandro Melo         | 11:00 12:15 |
-| Almoço                                             |                      | 12:15 13:30 |
-| Arquivos de memória mapeada no Windows com C++     | Basílio Miranda      | 13:30 14:45 |
-| Explorando o Windows (Vista & Server 2008) com C++ | Fábio Galuppo        | 14:45 16:00 |
-| Coffee-Break                                       |                      | 16:00 16:15 |
-| Criando Linguagens Embutidas para Otimização       | Felipe Almeida       | 16:15 17:30 |
-| Lightning Talks / Painel / Debate                  |                      | 17:30 18:15 |
-| Sorteio de Brindes e Encerramento                  |                      | 18:15 18:30 |
+| Atividade                                          | Palestrante          |
+|----------------------------------------------------|----------------------|
+| Keynote                                            | Otávio Pêcego Coelho |
+| Ferramentas para programação C++ para Windows      | Rodrigo Strauss      |
+| Programando com Conceitos no novo C++              | Leandro Melo         |
+| Arquivos de memória mapeada no Windows com C++     | Basílio Miranda      |
+| Explorando o Windows (Vista & Server 2008) com C++ | Fábio Galuppo        |
+| Criando Linguagens Embutidas para Otimização       | Felipe Almeida       |
+| Lightning Talks / Painel / Debate                  |                      |
+| Sorteio de Brindes e Encerramento                  |                      |
 
 ---
 
