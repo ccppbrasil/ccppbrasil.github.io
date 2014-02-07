@@ -3,7 +3,11 @@ layout: default
 title: Principal
 ---
 
-###Bem-vindo ao site do Grupo de Usuários C e C++ do Brasil!
+<img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
+  src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil">
+</img>
+
+##Bem-vindo ao C & C++ Brasil!
 
 O Grupo é uma associação de profissionais, aficcionados, estudiosos e demais
 interessados nas linguagens de programação C e C++ e em tecnologias associadas;
