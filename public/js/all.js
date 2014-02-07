@@ -40,7 +40,7 @@ function printSidebar(tree, indentation) {
         --printSidebar.depth;
     }
 
-    if(printSidebar.depth == 0) {
+    if (printSidebar.depth == 0) {
         var html = printSidebar.html;
         printSidebar.html = '';
         return html;
@@ -55,8 +55,46 @@ function goToProse(repo, page) {
     window.location = repo.replace(/^https?:\/\/[^\/]*\//i,'http://prose.io/#') + '/edit/master/' + page;
 }
 
+// TODO Pagination: http://developer.github.com/guides/traversing-with-pagination
+// TODO OAuth or Caching/Cookies? http://developer.github.com/v3/oauth/
+// TODO Randomizar ordem
+
+function printHireables(organization) {
+    var hireables = document.getElementById('hireables');
+    if (hireables) {
+        $.ajax({
+            url: 'https://api.github.com/orgs/' + organization + '/members'
+        }).then(function(members) {
+            for (var i in members) {
+                $.ajax({
+                    url: 'https://api.github.com/users/' + members[i].login
+                }).then(function(member) {
+                    if (member.hireable) {
+                        hireables.innerHTML += printHireableRow(member);
+                    }
+                });
+            }
+        });
+    }
+}
+
+function printHireableRow(hireable) {
+    var output =
+    '    <tr>\n' +
+    '      <td><a href="' + hireable.html_url  + '"><img src="'     + hireable.avatar_url + '" style="margin: 0" /></a></td>\n' +
+    '      <td><a href="' + hireable.html_url  + '">'               + hireable.name       + '</a></td>\n'                       +
+    '      <td style="text-align: center">'    + hireable.followers + '</td>\n'           +
+    '      <td style="text-align: center">'    + hireable.following + '</td>\n'           +
+    '    </tr>\n';
+    return output;
+}
+
 $(document).ready(function() {
+  jQuery.support.cors = true;
+
   $('.flexslider').flexslider({
     animation: "slide"
   });
+
+  printHireables('ccppbrasil');
 });
