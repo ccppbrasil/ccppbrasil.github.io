@@ -43,8 +43,25 @@ images:
 
 ---
 
-9° Encontro de Programadores C & C++ do Brasil  
-??/??/????
+##9° Encontro de Programadores C & C++ do Brasil
+<sub>C++ Renaissance</sub>
+
+###Local
+Microsoft Informática Ltda
+
+Av. Nações Unidas, 12.901 – Torre Norte – 31° andar
+
+###Data
+28/01/2012
+
+| Atividade                                                      | Palestrante                       |
+| ---------------------------------------------------------------|-----------------------------------|
+| Abertura                                                       | Rodrigo de Carvalho e Diego Dagum |
+| Como otimizar suas classes com Move Semantics do C++ 11        | Wanderley Caloni                  |
+| Computação Heterogênea com C++                                 | Fabio Galuppo                     |
+| COM Renaissance                                                | Rodrigo Strauss                   |
+| Qt como uma alternativa para desenvolvimento nativo no Windows | Basilio Miranda                   |
+| Lockless Multithreading                                        | Rodrigo Madera                    |
 
 ---
 
