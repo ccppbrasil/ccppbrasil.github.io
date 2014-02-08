@@ -18,7 +18,15 @@ Mais tarde também foi criado o
 contínua ativo com centenas de membros.
 
 Eventualmente foi realizada a primeira reunião técnica e o interesse em formar
-um Grupo de Usuários surgiu. 
+um Grupo de Usuários surgiu.
+
+Por volta de 2013/2014 a wiki foi atacada, _todos os momentos se perderam no
+tempo,_ [_como lágrimas na chuva_](http://www.youtube.com/watch?v=NOW4QiOD-oc).
+[Francisco Lopes](https://github.com/oblitum) tomou
+a iniciativa de reconstruir o site em uma nova forma, inicialmente a partir dos
+cacos que sobraram de outros cantos da rede global. O site passou a morar no
+[GitHub Pages](http://pages.github.com/), e foi iniciada a
+[organização GitHub do grupo](https://github.com/orgs/ccppbrasil).
 
 ###Proposta original
 
