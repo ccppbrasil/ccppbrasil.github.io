@@ -7,11 +7,13 @@ published: true
 O site é mantido via GitHub Pages, portanto pode ser editado via
 markdown/textile/html/etc no editor de sua preferência. Todas as páginas também
 contém um link (o pequeno lápis no topo à esquerda) para a edição através do
-editor online [Prose](http://prose.io).
+editor online [Prose](http://prose.io). Antes de iniciar a edição via Prose
+aconselha-se a clicar no ícone verde no canto inferior direito do próprio Prose
+para ser realizada a autorização do aplicativo no GitHub.
 
 Se você ainda não é membro do
 [time de edição](https://github.com/orgs/ccppbrasil/teams/editors), requisite
-suas adições via *pull request*, ou
+suas alterações via *pull request*, ou
 [abra uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new) com a
 label [editors-membership](https://github.com/ccppbrasil/ccppbrasil/issues?labels=editors-membership)
 no repositório genérico do grupo requisitando sua adição ao time.
