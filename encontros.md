@@ -49,6 +49,13 @@ R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 ###Data
 25/05/2013
 
+| Atividade                                                | Palestrante                  |
+|----------------------------------------------------------|------------------------------|
+| Explorando Windows 32 em Windows 64                      | Fernando Roberto da Silva    |
+| Programação em GPU utilizando OpenCL                     | André Tupinambá              |
+| Interoperando C++ e Java usando meta-programação em C++  | Felipe Magno de Almeida      |
+| Kernel Insecurity Vectors                                | Carlos Carvalho e Alan Silva |
+
 ---
 
 ##9° Encontro de Programadores C & C++ do Brasil
@@ -63,7 +70,7 @@ Av. Nações Unidas, 12.901 – Torre Norte – 31° andar
 28/01/2012
 
 | Atividade                                                      | Palestrante                       |
-| ---------------------------------------------------------------|-----------------------------------|
+|----------------------------------------------------------------|-----------------------------------|
 | Abertura                                                       | Rodrigo de Carvalho e Diego Dagum |
 | Como otimizar suas classes com Move Semantics do C++ 11        | Wanderley Caloni                  |
 | Computação Heterogênea com C++                                 | Fabio Galuppo                     |
@@ -86,7 +93,7 @@ Av Brás Leme, 1631, Casa Verde, São Paulo - SP
 17/09/2011
 
 | Atividade                                                                 | Palestrante           |
-| --------------------------------------------------------------------------|-----------------------|
+|---------------------------------------------------------------------------|-----------------------|
 | Integrando Lua e C++                                                      | Vinicius Jarina       |
 | Desenvolvendo aplicações multi-plataforma em C++ para iOS e Android (NDK) | Gianni Rossi          |
 | C++11: Do que se trata e como ele vai facilitar a sua vida                | Rodrigo Strauss       |
