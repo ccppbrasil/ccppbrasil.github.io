@@ -38,7 +38,15 @@ images:
   - /public/img/encontros/8/7.jpg
 ---
 
-10° Encontro de Programadores C & C++ do Brasil  
+##10° Encontro de Programadores C & C++ do Brasil
+<sub>Encontro X</sub>
+
+###Local
+Instituto de Matemática e Estatística da UERJ
+
+R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
+
+###Data
 25/05/2013
 
 ---
