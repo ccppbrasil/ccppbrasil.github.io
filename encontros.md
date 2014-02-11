@@ -122,8 +122,25 @@ R. Teixeira da Silva, 647 - Paraíso
 
 ---
 
-6° Encontro de Programadores C & C++ do Brasil  
+##6° Encontro de Programadores C & C++ do Brasil
+
+###Local
+Auditório da Abinee
+
+Avenida Paulista, 1439 - 6º andar
+
+###Data
 06/02/2010
+
+| Atividade                                         | Palestrante               |
+|---------------------------------------------------|---------------------------|
+| Gerenciamento de Memória em C e C++               | Rodrigo Strauss           |
+| Introdução a Concurrency Runtime do Visual C++ 10 | Fábio Galuppo             |
+| Uso de string C++ (recursos e características)    | Vilmar Pedro Votre        |
+| Simulador de robótica com Qt Framework            | Felipe Ferreri Tonello    |
+| Lidando com Memória Virtual em Drivers            | Fernando Roberto da Silva |
+| Lightning Talks / Painel / Debate                 |                           |
+| Sorteio de Brindes e Encerramento                 |                           |
 
 ---
 
