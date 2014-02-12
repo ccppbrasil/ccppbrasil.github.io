@@ -1,7 +1,12 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+markdown:         kramdown
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  use_coderay:    false
+
 pygments:         true
 
 # Permalinks

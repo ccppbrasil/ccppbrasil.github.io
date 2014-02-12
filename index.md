@@ -4,8 +4,7 @@ title: Principal
 ---
 
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
-  src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil">
-</img>
+  src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil" />
 
 ##Bem-vindo(a) ao C & C++ Brasil!
 

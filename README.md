@@ -2,8 +2,7 @@
 ###O Grupo de usuários C & C++ do Brasil
 
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
-  src="http://ccppbrasil.github.io/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil">
-</img>
+  src="http://ccppbrasil.github.io/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil" />
 
 Repositório do site do [C & C++ Brasil](http://ccppbrasil.github.io/about/):
 [http://ccppbrasil.github.io](http://ccppbrasil.github.io).

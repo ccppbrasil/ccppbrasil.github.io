@@ -49,12 +49,20 @@ R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 ###Data
 25/05/2013
 
-| Atividade                                                | Palestrante                  |
-|----------------------------------------------------------|------------------------------|
-| Explorando Windows 32 em Windows 64                      | Fernando Roberto da Silva    |
-| Programação em GPU utilizando OpenCL                     | André Tupinambá              |
-| Interoperando C++ e Java usando meta-programação em C++  | Felipe Magno de Almeida      |
-| Kernel Insecurity Vectors                                | Carlos Carvalho e Alan Silva |
+| Atividade                                                        | Palestrante                  |
+|------------------------------------------------------------------|------------------------------|
+| Explorando Windows 32 em Windows 64[^1]                          | Fernando Roberto da Silva    |
+| Programação em GPU utilizando OpenCL[^2] [^3]                    | André Tupinambá              |
+| Interoperando C++ e Java usando meta-programação em C++[^4] [^5] | Felipe Magno de Almeida      |
+| Kernel Insecurity Vectors[^6] [^7]                               | Carlos Carvalho e Alan Silva |
+
+[^1]: <https://drive.google.com/file/d/0B0_mzHzbl3GbX0hLQU11endKOGc>
+[^2]: <https://drive.google.com/file/d/0B0_mzHzbl3GbSWxYd3NPZGxEU1k>
+[^3]: <https://drive.google.com/file/d/0B0_mzHzbl3Gba2F0anVIOW45YU0>
+[^4]: <https://drive.google.com/file/d/0B0_mzHzbl3GbdTBKWnZlT1pwdzQ>
+[^5]: <https://drive.google.com/file/d/0B0_mzHzbl3GbTlBCWWR0VEd5bjQ>
+[^6]: <https://drive.google.com/file/d/0B0_mzHzbl3GbYmpWT012eXdKR0E>
+[^7]: <https://drive.google.com/file/d/0B0_mzHzbl3Gbcm05bU1QeVR3Rk0>
 
 ---
 
@@ -211,3 +219,7 @@ Praça da República
 | C++0x - Novas características de suporte a projetos de bibliotecas genéricas | Pedro Lamarão     |
 | Threads no CPP ISO                                                           | Wanderley Caloni  |
 | Forum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil  |                   |
+
+---
+
+##Material de referência
