@@ -9,7 +9,8 @@ markdown/textile/html/etc no editor de sua preferência. Todas as páginas tamb�
 contém um link (o pequeno lápis no topo à esquerda) para a edição através do
 editor online [Prose](http://prose.io). Antes de iniciar a edição via Prose
 aconselha-se a clicar no ícone verde no canto inferior direito do próprio Prose
-para ser realizada a autorização do aplicativo no GitHub.
+para ser realizada a autorização do aplicativo no GitHub. O ícone do
+[Octocat](http://octodex.github.com) abre a edição do editor do GitHub.
 
 Se você ainda não é membro do
 [time de edição](https://github.com/orgs/ccppbrasil/teams/editors), requisite

@@ -1,0 +1,59 @@
+@font-face {
+  font-family:'octicons';
+    src:url('/public/fonts/octicons-0df9c4e2ad4011950f7865f744fd51438f6e9ed6.eot');
+    src:url('/public/fonts/octicons-0df9c4e2ad4011950f7865f744fd51438f6e9ed6.eot#iefix') format('embedded-opentype'),
+        url('/public/fonts/octicons-42317b4656db563d0370825b447f9df85a9f4bd5.woff') format('woff');
+  font-weight:normal;
+  font-style:normal;
+}
+
+.octicon-octoface {
+  font-family:'octicons';
+  font-size:18px;
+  position: absolute;
+  top: 1rem;
+  left: 6rem;
+  display: block;
+  width: 2.2rem;
+  padding: .14rem .56rem;
+  color: #505050;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.octicon-octoface:before {
+  content: "\f008";
+  display: block;
+  width: 100%;
+  padding-top: .12rem;
+  padding-left: .1rem;
+  padding-bottom: .01rem;
+
+  /* Make the border inside the box */
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.octicon-octoface:active {
+  color: #fff;
+  background-color: #505050;
+}
+
+@media (max-width: 30.1rem) {
+  .octicon-octoface {
+    font-size:12px;
+    position: fixed;
+    width: 2.25rem;
+  }
+  .octicon-octoface:before {
+    padding-top: .24rem;
+    padding-left: .2rem;
+    padding-bottom: .01rem;
+    border-top-width: .45rem;
+    border-bottom-width: .15rem;
+  }
+}
+
+
