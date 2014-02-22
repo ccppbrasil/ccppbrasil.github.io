@@ -10,4 +10,4 @@ membro público da organização.
 
 Boa sorte!
 
-<div> {% include hireables.html %} </div>
+{% include hireables.html %}

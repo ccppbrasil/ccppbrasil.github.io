@@ -90,7 +90,7 @@ Av. Nações Unidas, 12.901 – Torre Norte – 31° andar
 
 ##8° Encontro de Programadores C & C++ do Brasil
 
-<div> {% assign images = page.images.encontro-8 %} {% include flexslider.html %} </div>
+{% assign images = page.images.encontro-8 %} {% include flexslider.html %}
 
 ###Local
 Totvs S.A.
@@ -154,7 +154,7 @@ Avenida Paulista, 1439 - 6º andar
 
 ##5° Encontro de Programadores C & C++ do Brasil
 
-<div> {% assign images = page.images.encontro-5 %} {% include flexslider.html %} </div>
+{% assign images = page.images.encontro-5 %} {% include flexslider.html %}
 
 ###Local
 Microsoft Informática Ltda
@@ -180,7 +180,7 @@ Auditórios 1 e 2
 
 ##4° Encontro de Programadores C & C++ do Brasil
 
-<div> {% assign images = page.images.encontro-4 %} {% include flexslider.html %} </div>
+{% assign images = page.images.encontro-4 %} {% include flexslider.html %}
 
 ###Local
 SEPROSP (Sindicato das Empresas de Processamento de Dados e Serviços de
@@ -203,7 +203,7 @@ Rua Professor Tamandaré Toledo, 69 - 3. andar Itaim Bibi - São Paulo - SP
 
 ##3° Encontro de Programadores C & C++ do Brasil
 
-<div> {% assign images = page.images.encontro-3 %} {% include flexslider.html %} </div>
+{% assign images = page.images.encontro-3 %} {% include flexslider.html %}
 
 ###Local
 APEOSP
