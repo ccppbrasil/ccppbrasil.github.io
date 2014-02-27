@@ -19,3 +19,9 @@
     font-size: 16px;
   }
 }
+
+#hireables-table img {
+    margin: 0;
+    width: 70px;
+    height: 70px;
+}

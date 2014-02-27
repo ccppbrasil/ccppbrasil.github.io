@@ -97,9 +97,9 @@ function printHireableRow(hireable) {
     }
     var output =
     '    <tr>\n' +
-    '      <td><a href="' + hireable.html_url + '"><img src="'     + hireable.avatar_url + '" style="margin: 0" /></a></td>\n' +
-    '      <td><a href="' + hireable.html_url + '">'               + hireable.name       + '</a></td>\n'                       +
-    '      <td><a href="' + blog_normalized   + '">'               + blog                + '</a></td>\n'                       +
+    '      <td><a href="' + hireable.html_url + '"><img src="'     + hireable.avatar_url + '" /></a></td>\n' +
+    '      <td><a href="' + hireable.html_url + '">'               + hireable.name       + '</a></td>\n'     +
+    '      <td><a href="' + blog_normalized   + '">'               + blog                + '</a></td>\n'     +
     '      <td style="text-align: center">'   + hireable.followers + '</td>\n'           +
     '      <td style="text-align: center">'   + hireable.following + '</td>\n'           +
     '    </tr>\n';
