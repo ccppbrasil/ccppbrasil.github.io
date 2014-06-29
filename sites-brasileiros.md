@@ -12,6 +12,7 @@ published: true
 - http://nullonerror.appspot.com/
 - http://0fx66.com/blog/programacao/linguagem-c/
 - http://blog.ricbit.com/search/label/cpp
+- http://www.hogpog.com.br/
 
 # Portais
 
