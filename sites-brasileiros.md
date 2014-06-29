@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projetos brasileiros open source"
+title: "Sites brasileiros"
 published: true
 ---
 
