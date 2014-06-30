@@ -104,9 +104,12 @@ Av Brás Leme, 1631, Casa Verde, São Paulo - SP
 |---------------------------------------------------------------------------|-----------------------|
 | Integrando Lua e C++                                                      | Vinicius Jarina       |
 | Desenvolvendo aplicações multi-plataforma em C++ para iOS e Android (NDK) | Gianni Rossi          |
-| C++11: Do que se trata e como ele vai facilitar a sua vida                | Rodrigo Strauss       |
+| C++11: Do que se trata e como ele vai facilitar a sua vida[^8] [^9]       | Rodrigo Strauss       |
 | Modelos de memória e porque você precisa saber disso                      | Rodrigo Kumpera       |
 | O Framework ROOT, não apenas para físicos                                 | Marcelo Zimbres Silva |
+
+[^8]: <http://www.slideshare.net/rodrigostrauss/c11-9364228>
+[^9]: <http://www.1bit.com.br/cpp11.pptx>
 
 ---
 
