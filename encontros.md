@@ -227,8 +227,6 @@ Praça da República
 
 ##1° Encontro de Programadores C & C++ do Brasil
 
-{% assign images = page.images.encontro-3 %} {% include flexslider.html %}
-
 ###Local
 Outback Shopping Eldorado
 
