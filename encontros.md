@@ -72,7 +72,7 @@ R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 ###Local
 Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 – Torre Norte – 31° andar
+Av. Nações Unidas, 12.901 ¿ Torre Norte ¿ 31° andar
 
 ###Data
 28/01/2012
@@ -162,7 +162,7 @@ Avenida Paulista, 1439 - 6º andar
 ###Local
 Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 – Torre Norte – 31° andar  
+Av. Nações Unidas, 12.901 ¿ Torre Norte ¿ 31° andar  
 Auditórios 1 e 2
 
 ###Data
@@ -222,6 +222,22 @@ Praça da República
 | C++0x - Novas características de suporte a projetos de bibliotecas genéricas | Pedro Lamarão     |
 | Threads no CPP ISO                                                           | Wanderley Caloni  |
 | Forum sobre a Organização do Grupo de Usuários e da C/C++ Conference Brasil  |                   |
+
+---
+
+##1° Encontro de Programadores C & C++ do Brasil
+
+{% assign images = page.images.encontro-3 %} {% include flexslider.html %}
+
+###Local
+Outback Shopping Eldorado
+
+###Data
+2005
+
+| Atividade                                                                    | Palestrante       |
+|------------------------------------------------------------------------------|-------------------|
+| Conversa informal                                                            | Todos             |
 
 ---
 
