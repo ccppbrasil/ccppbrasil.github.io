@@ -225,13 +225,27 @@ Praça da República
 
 ---
 
+##2° Encontro de Programadores C & C++ do Brasil
+
+###Local
+Casa do Espeto - São Paulo - SP
+
+###Data
+25/03/2006
+
+| Atividade                                                                    | Palestrante       |
+|------------------------------------------------------------------------------|-------------------|
+| Conversa informal                                                            | Todos             |
+
+---
+
 ##1° Encontro de Programadores C & C++ do Brasil
 
 ###Local
 Outback Shopping Eldorado
 
 ###Data
-2005
+17/12/2005
 
 | Atividade                                                                    | Palestrante       |
 |------------------------------------------------------------------------------|-------------------|
