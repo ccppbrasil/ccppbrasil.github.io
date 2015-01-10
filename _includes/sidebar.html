@@ -24,7 +24,7 @@
 
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}
-          {% if node.title != null and node.layout == "page" and node.published != false %}
+          {% if node.title != null and node.layout == "page" and node.published == true %}
         tree.add('{{ node.url }}', '{{ node.title }}', {% if page.url == node.url %}true{% else %}false{% endif %});
           {% endif %}
         {% endfor %}

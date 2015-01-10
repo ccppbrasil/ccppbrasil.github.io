@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Principal
+published: true
 ---
 
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
