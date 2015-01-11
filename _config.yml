@@ -1,35 +1,39 @@
 # Dependencies
-markdown:         kramdown
+markdown:            kramdown
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  use_coderay:    false
+  auto_ids:          true
+  footnote_nr:       1
+  entity_output:     as_char
+  toc_levels:        1..6
+  use_coderay:       false
 
-pygments:         true
+highlighter:         pygments
 
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:            'C & C++ Brasil'
-tagline:          'O Grupo de usuários C & C++ do Brasil'
-description:      'Bem vindo(a) ao site e blog do Grupo de usuários C & C++ do Brasil'
-url:              http://ccppbrasil.github.io
+title:               'C & C++ Brasil'
+tagline:             'O Grupo de usuários C & C++ do Brasil'
+description:         'Bem vindo(a) ao site e blog do Grupo de usuários C & C++ do Brasil'
+url:                 http://ccppbrasil.github.io
+baseurl:             /
+paginate:            5
+paginate_path:       blog/page:num
 
+# About/contact
 author:
-  name:           'Francisco Lopes'
-  url:            https://twitter.com/pepper_chico
-
-paginate:         5
-paginate_path:    blog/page:num
+  name:              'Francisco Lopes'
+  url:               https://twitter.com/pepper_chico
 
 # Custom vars
-version:          1.0.0
+version:             1.0.0
 
 github:
-  repo:           https://github.com/ccppbrasil/ccppbrasil.github.io
+  repo:              https://github.com/ccppbrasil/ccppbrasil.github.io
 
 prose:
   ignore:
