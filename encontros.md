@@ -72,7 +72,7 @@ R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 ###Local
 Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 ¿ Torre Norte ¿ 31° andar
+Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 
 ###Data
 28/01/2012
@@ -162,7 +162,7 @@ Avenida Paulista, 1439 - 6º andar
 ###Local
 Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 ¿ Torre Norte ¿ 31° andar  
+Av. Nações Unidas, 12.901 - Torre Norte - 31° andar  
 Auditórios 1 e 2
 
 ###Data
