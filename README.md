@@ -12,13 +12,7 @@ O site tem a intenção de ser
 
 Para clonar este repositório:
 
- - `git clone https://github.com/ccppbrasil/ccppbrasil.github.io.git`
-
-Após clonar, certifique-se de iniciar e clonar seus submódulos:
-
- - `cd ccppbrasil.github.io`
- - `git submodule init`
- - `git submodule update`
+ - `git clone --recursive https://github.com/ccppbrasil/ccppbrasil.github.io.git`
 
 O site é construído sobre o tema [Lanyon](http://lanyon.getpoole.com) para sites
 [Jekyll](http://jekyllrb.com). Este tema foi inicialmente escolhido por fornecer
