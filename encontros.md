@@ -1,42 +1,55 @@
 ---
 layout: page
-title: "Encontros"
+title: Encontros
 published: true
-images:
- encontro-3:
-  - /public/img/encontros/3/1.jpg
-  - /public/img/encontros/3/2.jpg
-  - /public/img/encontros/3/3.jpg
-  - /public/img/encontros/3/4.jpg
-  - /public/img/encontros/3/5.jpg
-  - /public/img/encontros/3/6.jpg
- encontro-4:
-  - /public/img/encontros/4/1.jpg
-  - /public/img/encontros/4/2.jpg
-  - /public/img/encontros/4/3.jpg
-  - /public/img/encontros/4/4.jpg
-  - /public/img/encontros/4/5.jpg
-  - /public/img/encontros/4/6.jpg
-  - /public/img/encontros/4/7.jpg
-  - /public/img/encontros/4/8.jpg
-  - /public/img/encontros/4/9.jpg
- encontro-5:
-  - /public/img/encontros/5/1.jpg
-  - /public/img/encontros/5/2.jpg
-  - /public/img/encontros/5/3.jpg
-  - /public/img/encontros/5/4.jpg
-  - /public/img/encontros/5/5.jpg
-  - /public/img/encontros/5/6.jpg
-  - /public/img/encontros/5/7.jpg
- encontro-8:
-  - /public/img/encontros/8/1.jpg
-  - /public/img/encontros/8/2.jpg
-  - /public/img/encontros/8/3.jpg
-  - /public/img/encontros/8/4.jpg
-  - /public/img/encontros/8/5.jpg
-  - /public/img/encontros/8/6.jpg
-  - /public/img/encontros/8/7.jpg
+images: 
+  "encontro-3": 
+    - /public/img/encontros/3/1.jpg
+    - /public/img/encontros/3/2.jpg
+    - /public/img/encontros/3/3.jpg
+    - /public/img/encontros/3/4.jpg
+    - /public/img/encontros/3/5.jpg
+    - /public/img/encontros/3/6.jpg
+  "encontro-4": 
+    - /public/img/encontros/4/1.jpg
+    - /public/img/encontros/4/2.jpg
+    - /public/img/encontros/4/3.jpg
+    - /public/img/encontros/4/4.jpg
+    - /public/img/encontros/4/5.jpg
+    - /public/img/encontros/4/6.jpg
+    - /public/img/encontros/4/7.jpg
+    - /public/img/encontros/4/8.jpg
+    - /public/img/encontros/4/9.jpg
+  "encontro-5": 
+    - /public/img/encontros/5/1.jpg
+    - /public/img/encontros/5/2.jpg
+    - /public/img/encontros/5/3.jpg
+    - /public/img/encontros/5/4.jpg
+    - /public/img/encontros/5/5.jpg
+    - /public/img/encontros/5/6.jpg
+    - /public/img/encontros/5/7.jpg
+  "encontro-8": 
+    - /public/img/encontros/8/1.jpg
+    - /public/img/encontros/8/2.jpg
+    - /public/img/encontros/8/3.jpg
+    - /public/img/encontros/8/4.jpg
+    - /public/img/encontros/8/5.jpg
+    - /public/img/encontros/8/6.jpg
+    - /public/img/encontros/8/7.jpg
 ---
+
+##11° Encontro de Programadores C & C++ do Brasil
+
+###Local
+Microsoft Brasil - Vila Olímpia - São Paulo - SP
+_(Endereço exato ainda a definir)_
+
+###Data
+28/03/2015
+
+| Atividades                                                        | Palestrantes                  
+|------------------------------------------------------------------|------------------------------|
+| [Call for Papers](https://docs.google.com/forms/d/1G4Wifn64YknKk-BG1IvTZ1jOEflR4LatcutsilqilyE/viewform?c=0&w=1) | A Definir |
 
 ##10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>
