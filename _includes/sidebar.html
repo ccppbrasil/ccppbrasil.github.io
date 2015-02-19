@@ -9,8 +9,8 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="/">Principal</a>
-    <a class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}" href="/blog/">Blog</a>
+    <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }}">Principal</a>
+    <a class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}" href="{{ site.baseurl }}blog/">Blog</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -24,7 +24,7 @@
 
         {% assign pages_list = site.pages %}
         {% for node in pages_list %}
-          {% if node.title != null and node.layout == "page" and node.published != false %}
+          {% if node.title != null and node.layout == "page" and node.published == true %}
         tree.add('{{ node.url }}', '{{ node.title }}', {% if page.url == node.url %}true{% else %}false{% endif %});
           {% endif %}
         {% endfor %}
@@ -32,7 +32,7 @@
         document.getElementById('sidebar-tree').innerHTML = printSidebar(tree, repeatString('&nbsp', 6));
     </script>
 
-    <a class="sidebar-nav-item{% if page.title == "Sobre" %} active{% endif %}" href="/about/">Sobre</a>
+    <a class="sidebar-nav-item{% if page.title == "Sobre" %} active{% endif %}" href="{{ site.baseurl }}about/">Sobre</a>
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">Repositório do site</a>
   </nav>
 

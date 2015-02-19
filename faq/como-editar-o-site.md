@@ -43,7 +43,9 @@ O _front-matter_ básico necessário é:
     published: true
     ---
 
-Páginas com _published false_ não aparecerão no menu automaticamente.
+- Páginas sem _published_ não aparecerão no menu automaticamente mas estarão
+acessíveis via URL.
+- Páginas com _published false_ não podem ser acessadas.
 
 A árvore do menu é baseada na estrutura de diretórios do site, exceto pelos
 diretórios ignorados, cujos nomes começam com `_`.

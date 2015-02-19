@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre
-published: false
 ---
 
 Este site teve inicio por volta de 02/12/2005, quando

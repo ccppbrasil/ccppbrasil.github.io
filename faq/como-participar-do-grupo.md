@@ -23,4 +23,4 @@ no GitHub.
 
 Membros da comunidade que foram adicionados compulsoriamente à organização
 GitHub devem considerar sobre
-[se tornarem membros públicos ou não](https://github.com/orgs/ccppbrasil/members).
+[se tornarem membros públicos ou não](https://github.com/orgs/ccppbrasil/people).
