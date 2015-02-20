@@ -12,7 +12,7 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 **Microsoft Brasil - São Paulo - Capital**
 
 #Data
-**2015-03-27**
+**2015-03-28 - Sábado**
 
 
 | Atividade                                                        | Palestrante                  | Horário        |
