@@ -23,7 +23,7 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 
 _Palavras-chave (ainda em análise): profiling, gcc, valgrind, 8 bits, 16 mhz, detecção de erros, joystick, metaprogramação, data models, processamento vetorial, Qt Creator, Boost::SIMD, NP, monads, programação paralela, inteligência artificial._
 
-#Incrições
+#Inscrições
 
 <div style="float: left; margin-right: 10px">
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
