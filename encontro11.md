@@ -12,18 +12,27 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 **Microsoft Brasil - São Paulo - Capital**
 
 #Data
-**2015-03-27**
+**2015-03-28**
 
+| Título | Palestrante | Início |
+| ====== | =========== | ====== |
+| __Início do Evento__ |  | 8:30 |
+| Mágica com Qt's meta-object system | Rodrigo Delduca | 8:45 |
+| Otimização em C: História, Mitos e Esquisitices | Daniel Quadros | 9:25 |
+| __Coffe-Break 1__ |  | 10:20 |
+| Uma Viagem aos Problemas Intratáveis | Fabio Galuppo | 10:35 |
+| __Almoço__ |  | 11:45 |
+| Profiling com Perf (do Kernel do Linux), GCC e Valgrind | Gianni | 13:15 |
+| Otimização de código em linguagem C | Fernando J. V. da Silva | 14:10 |
+| __Coffe-Break 2__ |  | 14:50 |
+| Trocando bits por segurança | Rodrigo Almeida | 15:05 |
+| Data Models Metaprogramados: ORM e Serialização | Rodrigo Madera | 15:45 |
+| Processamento vetorial, Boost::SIMD e autovetorização | André Tupinambá | 16:55 |
+| Construindo um analisador de executáveis em C | Fernando Mercês | 17:35 |
+| __Fim do Evento__ |  | 18:30 |
+| __Happy Hour__ |  | 18:45 |
 
-| Atividade                                                        | Palestrante                  | Horário        |
-|------------------------------------------------------------------|------------------------------|----------------|
-| Coffee-Break                                                     |                              | 10:30          |
-| [Call for Papers](https://docs.google.com/forms/d/1G4Wifn64YknKk-BG1IvTZ1jOEflR4LatcutsilqilyE/viewform?c=0&w=1) | | |
-| Coffee-Break                                                     |                              | 15:00          |
-
-_Palavras-chave (ainda em análise): profiling, gcc, valgrind, 8 bits, 16 mhz, detecção de erros, joystick, metaprogramação, data models, processamento vetorial, Qt Creator, Boost::SIMD, NP, monads, programação paralela, inteligência artificial._
-
-#Incrições
+#Inscrições
 
 <div style="float: left; margin-right: 10px">
 <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
