@@ -38,7 +38,7 @@ images:
     - /public/img/encontros/8/7.jpg
 ---
 
-##11° Encontro de Programadores C & C++ do Brasil
+##[11° Encontro de Programadores C & C++ do Brasil](http://www.ccppbrasil.org/encontro11/)
 
 ###Local
 Microsoft Brasil - Vila Olímpia - São Paulo - SP
@@ -49,7 +49,7 @@ _(Endereço exato ainda a definir)_
 
 | Atividades                                                        | Palestrantes                  
 |------------------------------------------------------------------|------------------------------|
-| [Call for Papers](https://docs.google.com/forms/d/1G4Wifn64YknKk-BG1IvTZ1jOEflR4LatcutsilqilyE/viewform?c=0&w=1) | A Definir |
+| [Hot Site](http://www.ccppbrasil.org/encontro11/) | |
 
 ##10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>
