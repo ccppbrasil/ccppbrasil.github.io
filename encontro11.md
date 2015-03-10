@@ -9,7 +9,9 @@ published: true
 Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais divertida da linguagem mais famosa, mais produtiva e mais... produtiva!
 
 #Local
-**Microsoft Brasil - São Paulo - Capital**
+**Microsoft Brasil**  
+*Av. Das Nações Unidas, 12901 – 31. Andar*  
+*São Paulo - Capital*  
 
 #Data
 **2015-03-28 - Sábado**
