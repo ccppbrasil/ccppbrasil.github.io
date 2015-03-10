@@ -17,18 +17,18 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 | Título | Palestrante | Início |
 | ====== | =========== | ====== |
 | __Início do Evento__ |  | 8:30 |
-| Mágica com Qt's meta-object system | Rodrigo Delduca | 8:45 |
-| Otimização em C: História, Mitos e Esquisitices | Daniel Quadros | 9:25 |
+| [Mágica com Qt's meta-object system](http://www.ccppbrasil.org/palestras/magica-com-qts-meta-object-system/) | [Rodrigo Delduca](http://www.ccppbrasil.org/programmers/rodrigo-delduca/) | 8:45 |
+| [Otimização em C: História, Mitos e Esquisitices](http://www.ccppbrasil.org/palestras/otimizacao-em-c-historias-mitos-e-esquisitices/) | [Daniel Quadros](http://www.ccppbrasil.org/programmers/daniel-quadros/) | 9:25 |
 | __Coffe-Break 1__ |  | 10:20 |
-| Uma Viagem aos Problemas Intratáveis | Fabio Galuppo | 10:35 |
+| [Uma Viagem aos Problemas Intratáveis](http://www.ccppbrasil.org/palestras/uma-viagem-aos-problemas-intrataveis/) | [Fabio Galuppo](http://www.ccppbrasil.org/programmers/fabio-galuppo/) | 10:35 |
 | __Almoço__ |  | 11:45 |
-| Profiling com Perf (do Kernel do Linux), GCC e Valgrind | Gianni | 13:15 |
-| Otimização de código em linguagem C | Fernando J. V. da Silva | 14:10 |
+| [Profiling com Perf(do Kernel do Linux), GCC e Valgrind](http://www.ccppbrasil.org/palestras/profiling-com-perf-do-kernel-do-linux/) | [Gianni](http://www.ccppbrasil.org/programmers/gianni/) | 13:15 |
+| [Otimização de código em linguagem C](http://www.ccppbrasil.org/palestras/otimizacao-de-codigo-em-linguagem-c/) | [Fernando J. V. da Silva](http://www.ccppbrasil.org/programmers/fernando-j-v-da-silva/) | 14:10 |
 | __Coffe-Break 2__ |  | 14:50 |
-| Trocando bits por segurança | Rodrigo Almeida | 15:05 |
-| Data Models Metaprogramados: ORM e Serialização | Rodrigo Madera | 15:45 |
-| Processamento vetorial, Boost::SIMD e autovetorização | André Tupinambá | 16:55 |
-| Construindo um analisador de executáveis em C | Fernando Mercês | 17:35 |
+| [Trocando bits por segurança](http://www.ccppbrasil.org/palestras/trocando-bits-por-seguranca/) | [Rodrigo Almeida](http://www.ccppbrasil.org/programmers/rodrigo-almeida/) | 15:05 |
+| [Data Models Metaprogramados: ORM e Serialização](http://www.ccppbrasil.org/palestras/data-models-metaprogramados-orm-e-serializacao/) | [Rodrigo Madera](http://www.ccppbrasil.org/programmers/rodrigo-madera/) | 15:45 |
+| [Processamento vetorial, Boost::SIMD e autovetorização](http://www.ccppbrasil.org/palestras/processamento-vetorial-boost-simd-e-autovetorizacao/) | [André Tupinambá](http://www.ccppbrasil.org/programmers/andre-tupinamba/) | 16:55 |
+| [Construindo um analisador de executáveis em C](http://www.ccppbrasil.org/palestras/construindo-um-analisador-de-executaveis-em-c/) | [Fernando Mercês](http://www.ccppbrasil.org/programmers/fernando-merces/) | 17:35 |
 | __Fim do Evento__ |  | 18:30 |
 | __Happy Hour__ |  | 18:45 |
 
