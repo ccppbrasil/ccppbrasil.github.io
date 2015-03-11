@@ -10,7 +10,7 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 
 #Local
 **Microsoft Brasil**  
-*Av. Das Nações Unidas, 12901 ¿ 31. Andar*  
+*Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
 *São Paulo - Capital*  
 
 #Data
