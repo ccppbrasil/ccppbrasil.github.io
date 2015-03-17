@@ -19,7 +19,7 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 | Título | Palestrante | Início |
 | ====== | =========== | ====== |
 | __Credenciamento__ |  | 8:00 |
-| __Início do Evento__ |  | 8:30 |
+| __Keynote__ |  | 8:30 |
 | [Mágica com Qt's meta-object system]({{ site.baseurl }}palestras/#mgica-com-qts-meta-object-system) | [Rodrigo Delduca]({{ site.baseurl }}programmers/#rodrigo-delduca) | 8:45 |
 | [Otimização em C: História, Mitos e Esquisitices]({{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices) | [Daniel Quadros]({{ site.baseurl }}programmers/#daniel-quadros) | 9:25 |
 | __Coffe-Break 1__ |  | 10:20 |
