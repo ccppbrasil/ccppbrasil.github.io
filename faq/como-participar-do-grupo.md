@@ -8,7 +8,7 @@ Você pode participar do grupo:
 
 - Sendo membro do
 [grupo no google groups](https://groups.google.com/forum/#!forum/ccppbrasil).
-- Sendo listado como [membro](https://github.com/orgs/ccppbrasil/members) da
+- Sendo listado como [membro](https://github.com/orgs/ccppbrasil/people) da
 [organização no GitHub](https://github.com/orgs/ccppbrasil). Para isso, basta
 [abrir uma issue](https://github.com/ccppbrasil/ccppbrasil/issues/new) com a
 label [members-membership](https://github.com/ccppbrasil/ccppbrasil/issues?labels=members-membership)
