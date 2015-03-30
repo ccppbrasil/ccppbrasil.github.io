@@ -1,4 +1,5 @@
 ---
+redirect_from: "/encontro11"
 layout: page
 title: Encontros
 published: true
@@ -41,15 +42,26 @@ images:
 ##[11° Encontro de Programadores C & C++ do Brasil](http://www.ccppbrasil.org/encontro11/)
 
 ###Local
-Microsoft Brasil - Vila Olímpia - São Paulo - SP
-_(Endereço exato ainda a definir)_
+**Microsoft Brasil**  
+*Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
+*São Paulo - Capital*  
 
 ###Data
 28/03/2015
 
-| Atividades                                                        | Palestrantes                  
-|------------------------------------------------------------------|------------------------------|
-| [Hot Site](http://www.ccppbrasil.org/encontro11/) | |
+| Título | Palestrante |
+| [Otimização em C: História, Mitos e Esquisitices]({{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices) | [Daniel Quadros]({{ site.baseurl }}programmers/#daniel-quadros) |
+| [Uma Viagem aos Problemas Intratáveis]({{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis) | [Fabio Galuppo]({{ site.baseurl }}programmers/#fabio-galuppo) |
+| [Profiling com Perf (do Kernel do Linux), GCC e Valgrind]({{ site.baseurl }}palestras/#profiling-com-perf-do-kernel-do-linux-gcc-e-valgrind) | [Gianni]({{ site.baseurl }}programmers/#gianni) |
+| [Otimização de código em linguagem C]({{ site.baseurl }}palestras/#otimizao-de-cdigo-em-linguagem-c) | [Fernando J. V. da Silva]({{ site.baseurl }}programmers/#fernando-j-v-da-silva) |
+| [Trocando bits por segurança]({{ site.baseurl }}palestras/#trocando-bits-por-segurana) | [Rodrigo Almeida]({{ site.baseurl }}programmers/#rodrigo-almeida) |
+| [Data Models Metaprogramados: ORM e Serialização]({{ site.baseurl }}palestras/#data-models-metaprogramados-orm-e-serializao) | [Rodrigo Madera]({{ site.baseurl }}programmers/#rodrigo-madera) |
+| [Processamento vetorial, Boost::SIMD e autovetorização]({{ site.baseurl }}palestras/#processamento-vetorial-boostsimd-e-autovetorizao) | [André Tupinambá]({{ site.baseurl }}programmers/#andre-tupinamba) |
+| __Talk Visual Studio Team__ | Eric Battalio |
+| [Mágica com Qt's meta-object system]({{ site.baseurl }}palestras/#mgica-com-qts-meta-object-system) | [Rodrigo Delduca]({{ site.baseurl }}programmers/#rodrigo-delduca) |
+| [Construindo um analisador de executáveis em C]({{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c) | [Fernando Mercês]({{ site.baseurl }}programmers/#fernando-merces) |
+
+Conteúdo das palestras disponível no [repositório do encontro](https://github.com/ccppbrasil/encontro11).
 
 ##10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>

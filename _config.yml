@@ -9,6 +9,9 @@ kramdown:
 
 highlighter:         pygments
 
+gems:
+  - jekyll-redirect-from
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
