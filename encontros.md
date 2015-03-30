@@ -72,20 +72,6 @@ images:
 *Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
 *São Paulo - Capital*  
 
-| Título | Palestrante |
-| [Otimização em C: História, Mitos e Esquisitices]({{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices) | [Daniel Quadros]({{ site.baseurl }}programmers/#daniel-quadros) |
-| [Uma Viagem aos Problemas Intratáveis]({{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis) | [Fabio Galuppo]({{ site.baseurl }}programmers/#fabio-galuppo) |
-| [Profiling com Perf (do Kernel do Linux), GCC e Valgrind]({{ site.baseurl }}palestras/#profiling-com-perf-do-kernel-do-linux-gcc-e-valgrind) | [Gianni]({{ site.baseurl }}programmers/#gianni) |
-| [Otimização de código em linguagem C]({{ site.baseurl }}palestras/#otimizao-de-cdigo-em-linguagem-c) | [Fernando J. V. da Silva]({{ site.baseurl }}programmers/#fernando-j-v-da-silva) |
-| [Trocando bits por segurança]({{ site.baseurl }}palestras/#trocando-bits-por-segurana) | [Rodrigo Almeida]({{ site.baseurl }}programmers/#rodrigo-almeida) |
-| [Data Models Metaprogramados: ORM e Serialização]({{ site.baseurl }}palestras/#data-models-metaprogramados-orm-e-serializao) | [Rodrigo Madera]({{ site.baseurl }}programmers/#rodrigo-madera) |
-| [Processamento vetorial, Boost::SIMD e autovetorização]({{ site.baseurl }}palestras/#processamento-vetorial-boostsimd-e-autovetorizao) | [André Tupinambá]({{ site.baseurl }}programmers/#andre-tupinamba) |
-| __Talk Visual Studio Team__ | Eric Battalio |
-| [Mágica com Qt's meta-object system]({{ site.baseurl }}palestras/#mgica-com-qts-meta-object-system) | [Rodrigo Delduca]({{ site.baseurl }}programmers/#rodrigo-delduca) |
-| [Construindo um analisador de executáveis em C]({{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c) | [Fernando Mercês]({{ site.baseurl }}programmers/#fernando-merces) |
-
-Conteúdo das palestras disponível no [repositório do encontro](https://github.com/ccppbrasil/encontro11).
-=======
 | Atividades                                                  | Palestrantes                |
 |-------------------------------------------------------------|-----------------------------|
 | Keynote                                                     | Fernando Figuera            |
@@ -99,7 +85,6 @@ Conteúdo das palestras disponível no [repositório do encontro](https://github
 | Talk Visual Studio Team                                     | Eric Battalio               |
 | [Mágica com Qt's meta-object system][]                      | [Rodrigo Delduca][]         |
 | [Construindo um analisador de executáveis em C][]           | [Fernando Mercês][]         |
->>>>>>> 544b4ea0bfdfeddc6279f00e996df0b16252cc31
 
 ##10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>
