@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Palestras"
-published: true
 ---
 
 ## Construindo um analisador de executáveis em C
