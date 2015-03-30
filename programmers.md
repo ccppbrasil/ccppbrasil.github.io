@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Programadores
-published: true
 ---
 
 ## "André Tubinambá"

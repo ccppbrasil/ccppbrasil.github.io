@@ -3,15 +3,15 @@ redirect_from: "/encontro11"
 layout: page
 title: Encontros
 published: true
-images: 
-  "encontro-3": 
+images:
+  "encontro-3":
     - /public/img/encontros/3/1.jpg
     - /public/img/encontros/3/2.jpg
     - /public/img/encontros/3/3.jpg
     - /public/img/encontros/3/4.jpg
     - /public/img/encontros/3/5.jpg
     - /public/img/encontros/3/6.jpg
-  "encontro-4": 
+  "encontro-4":
     - /public/img/encontros/4/1.jpg
     - /public/img/encontros/4/2.jpg
     - /public/img/encontros/4/3.jpg
@@ -21,7 +21,7 @@ images:
     - /public/img/encontros/4/7.jpg
     - /public/img/encontros/4/8.jpg
     - /public/img/encontros/4/9.jpg
-  "encontro-5": 
+  "encontro-5":
     - /public/img/encontros/5/1.jpg
     - /public/img/encontros/5/2.jpg
     - /public/img/encontros/5/3.jpg
@@ -29,7 +29,7 @@ images:
     - /public/img/encontros/5/5.jpg
     - /public/img/encontros/5/6.jpg
     - /public/img/encontros/5/7.jpg
-  "encontro-8": 
+  "encontro-8":
     - /public/img/encontros/8/1.jpg
     - /public/img/encontros/8/2.jpg
     - /public/img/encontros/8/3.jpg
@@ -37,18 +37,51 @@ images:
     - /public/img/encontros/8/5.jpg
     - /public/img/encontros/8/6.jpg
     - /public/img/encontros/8/7.jpg
+  "encontro-11":
+    - /public/img/encontros/11/1.jpg
+    - /public/img/encontros/11/2.jpg
+    - /public/img/encontros/11/3.jpg
+    - /public/img/encontros/11/4.jpg
+    - /public/img/encontros/11/5.jpg
+    - /public/img/encontros/11/6.jpg
+    - /public/img/encontros/11/7.jpg
+    - /public/img/encontros/11/8.jpg
+    - /public/img/encontros/11/9.jpg
+    - /public/img/encontros/11/10.jpg
+    - /public/img/encontros/11/11.jpg
+    - /public/img/encontros/11/12.jpg
+    - /public/img/encontros/11/13.jpg
+    - /public/img/encontros/11/14.jpg
+    - /public/img/encontros/11/15.jpg
+    - /public/img/encontros/11/16.jpg
+    - /public/img/encontros/11/17.jpg
+    - /public/img/encontros/11/18.jpg
+    - /public/img/encontros/11/19.jpg
+    - /public/img/encontros/11/20.jpg
+    - /public/img/encontros/11/21.jpg
+    - /public/img/encontros/11/22.jpg
+    - /public/img/encontros/11/23.jpg
 ---
 
-##[11° Encontro de Programadores C & C++ do Brasil](http://www.ccppbrasil.org/encontro11/)
+##11° Encontro de Programadores C & C++ do Brasil
+
+{% assign images = page.images.encontro-11 %} {% include flexslider.html %}
 
 ###Local
+<<<<<<< HEAD
 **Microsoft Brasil**  
 *Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
 *São Paulo - Capital*  
+=======
+Microsoft Informática Ltda
+
+Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
+>>>>>>> 544b4ea0bfdfeddc6279f00e996df0b16252cc31
 
 ###Data
 28/03/2015
 
+<<<<<<< HEAD
 | Título | Palestrante |
 | [Otimização em C: História, Mitos e Esquisitices]({{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices) | [Daniel Quadros]({{ site.baseurl }}programmers/#daniel-quadros) |
 | [Uma Viagem aos Problemas Intratáveis]({{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis) | [Fabio Galuppo]({{ site.baseurl }}programmers/#fabio-galuppo) |
@@ -62,6 +95,21 @@ images:
 | [Construindo um analisador de executáveis em C]({{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c) | [Fernando Mercês]({{ site.baseurl }}programmers/#fernando-merces) |
 
 Conteúdo das palestras disponível no [repositório do encontro](https://github.com/ccppbrasil/encontro11).
+=======
+| Atividades                                                  | Palestrantes                |
+|-------------------------------------------------------------|-----------------------------|
+| Keynote                                                     | Fernando Figuera            |
+| [Otimização em C: História, Mitos e Esquisitices][]         | [Daniel Quadros][]          |
+| [Uma Viagem aos Problemas Intratáveis][]                    | [Fabio Galuppo][]           |
+| [Profiling com Perf (do Kernel do Linux), GCC e Valgrind][] | [Gianni][]                  |
+| [Otimização de código em linguagem C][]                     | [Fernando J. V. da Silva][] |
+| [Trocando bits por segurança][]                             | [Rodrigo Almeida][]         |
+| [Data Models Metaprogramados: ORM e Serialização][]         | [Rodrigo Madera][]          |
+| [Processamento vetorial, Boost::SIMD e autovetorização][]   | [André Tupinambá][]         |
+| Talk Visual Studio Team                                     | Eric Battalio               |
+| [Mágica com Qt's meta-object system][]                      | [Rodrigo Delduca][]         |
+| [Construindo um analisador de executáveis em C][]           | [Fernando Mercês][]         |
+>>>>>>> 544b4ea0bfdfeddc6279f00e996df0b16252cc31
 
 ##10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>
@@ -187,7 +235,7 @@ Avenida Paulista, 1439 - 6º andar
 ###Local
 Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 - Torre Norte - 31° andar  
+Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 Auditórios 1 e 2
 
 ###Data
@@ -279,3 +327,24 @@ Outback Shopping Eldorado
 ---
 
 ##Material de referência
+
+
+[Otimização em C: História, Mitos e Esquisitices]: {{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices
+[Uma Viagem aos Problemas Intratáveis]: {{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis
+[Profiling com Perf (do Kernel do Linux), GCC e Valgrind]: {{ site.baseurl }}palestras/#profiling-com-perf-do-kernel-do-linux-gcc-e-valgrind
+[Otimização de código em linguagem C]: {{ site.baseurl }}palestras/#otimizao-de-cdigo-em-linguagem-c
+[Trocando bits por segurança]: https://github.com/rmaalmeida/stack-protection
+[Data Models Metaprogramados: ORM e Serialização]: {{ site.baseurl }}palestras/#data-models-metaprogramados-orm-e-serializao
+[Processamento vetorial, Boost::SIMD e autovetorização]: https://github.com/ccppbrasil/encontro11/tree/master/AndreTupinamba
+[Mágica com Qt's meta-object system]: https://github.com/ccppbrasil/encontro11/tree/master/RodrigoDelduca
+[Construindo um analisador de executáveis em C]: {{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c
+
+[Daniel Quadros]: http://dqsoft.blogspot.com.br
+[Fabio Galuppo]: https://github.com/fabiogaluppo
+[Gianni]: {{ site.baseurl }}programmers/#giannig
+[Fernando J. V. da Silva]: {{ site.baseurl }}programmers/#fernando-j-v-da-silvag
+[Rodrigo Almeida]: https://github.com/rmaalmeida
+[Rodrigo Madera]: https://github.com/madera
+[André Tupinambá]: https://github.com/andrelrt
+[Rodrigo Delduca]: https://github.com/skhaz
+[Fernando Mercês]: {{ site.baseurl }}programmers/#fernando-mercesg
