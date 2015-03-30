@@ -306,7 +306,7 @@ Outback Shopping Eldorado
 ##Material de referência
 
 
-[Otimização em C: História, Mitos e Esquisitices]: {{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices
+[Otimização em C: História, Mitos e Esquisitices]: https://github.com/ccppbrasil/encontro11/tree/master/DanielQuadros
 [Uma Viagem aos Problemas Intratáveis]: {{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis
 [Profiling com Perf (do Kernel do Linux), GCC e Valgrind]: {{ site.baseurl }}palestras/#profiling-com-perf-do-kernel-do-linux-gcc-e-valgrind
 [Otimização de código em linguagem C]: {{ site.baseurl }}palestras/#otimizao-de-cdigo-em-linguagem-c
@@ -316,7 +316,7 @@ Outback Shopping Eldorado
 [Mágica com Qt's meta-object system]: https://github.com/ccppbrasil/encontro11/tree/master/RodrigoDelduca
 [Construindo um analisador de executáveis em C]: {{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c
 
-[Daniel Quadros]: http://dqsoft.blogspot.com.br
+[Daniel Quadros]: https://github.com/dquadros
 [Fabio Galuppo]: https://github.com/fabiogaluppo
 [Gianni]: {{ site.baseurl }}programmers/#giannig
 [Fernando J. V. da Silva]: {{ site.baseurl }}programmers/#fernando-j-v-da-silvag
