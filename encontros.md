@@ -68,20 +68,10 @@ images:
 {% assign images = page.images.encontro-11 %} {% include flexslider.html %}
 
 ###Local
-<<<<<<< HEAD
 **Microsoft Brasil**  
 *Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
 *São Paulo - Capital*  
-=======
-Microsoft Informática Ltda
 
-Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
->>>>>>> 544b4ea0bfdfeddc6279f00e996df0b16252cc31
-
-###Data
-28/03/2015
-
-<<<<<<< HEAD
 | Título | Palestrante |
 | [Otimização em C: História, Mitos e Esquisitices]({{ site.baseurl }}palestras/#otimizao-em-c-histria-mitos-e-esquisitices) | [Daniel Quadros]({{ site.baseurl }}programmers/#daniel-quadros) |
 | [Uma Viagem aos Problemas Intratáveis]({{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis) | [Fabio Galuppo]({{ site.baseurl }}programmers/#fabio-galuppo) |
