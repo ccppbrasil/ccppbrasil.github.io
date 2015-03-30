@@ -323,6 +323,5 @@ Outback Shopping Eldorado
 [Rodrigo Almeida]: https://github.com/rmaalmeida
 [Rodrigo Madera]: https://github.com/madera
 [André Tupinambá]: https://github.com/andrelrt
-Eric Battalio
 [Rodrigo Delduca]: https://github.com/skhaz
 [Fernando Mercês]: {{ site.baseurl }}programmers/#fernando-mercesg
