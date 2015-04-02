@@ -307,14 +307,14 @@ Outback Shopping Eldorado
 
 
 [Otimização em C: História, Mitos e Esquisitices]: https://github.com/ccppbrasil/encontro11/tree/master/DanielQuadros
-[Uma Viagem aos Problemas Intratáveis]: {{ site.baseurl }}palestras/#uma-viagem-aos-problemas-intratveis
-[Profiling com Perf (do Kernel do Linux), GCC e Valgrind]: {{ site.baseurl }}palestras/#profiling-com-perf-do-kernel-do-linux-gcc-e-valgrind
-[Otimização de código em linguagem C]: {{ site.baseurl }}palestras/#otimizao-de-cdigo-em-linguagem-c
+[Uma Viagem aos Problemas Intratáveis]: https://github.com/ccppbrasil/encontro11/tree/master/FabioGaluppo
+[Profiling com Perf (do Kernel do Linux), GCC e Valgrind]: https://github.com/ccppbrasil/encontro11/tree/master/Gianni
+[Otimização de código em linguagem C]: https://github.com/ccppbrasil/encontro11/tree/master/FernandoJVdaSilva
 [Trocando bits por segurança]: https://github.com/rmaalmeida/stack-protection
-[Data Models Metaprogramados: ORM e Serialização]: {{ site.baseurl }}palestras/#data-models-metaprogramados-orm-e-serializao
+[Data Models Metaprogramados: ORM e Serialização]: https://github.com/ccppbrasil/encontro11/tree/master/RodrigoMadera
 [Processamento vetorial, Boost::SIMD e autovetorização]: https://github.com/ccppbrasil/encontro11/tree/master/AndreTupinamba
 [Mágica com Qt's meta-object system]: https://github.com/ccppbrasil/encontro11/tree/master/RodrigoDelduca
-[Construindo um analisador de executáveis em C]: {{ site.baseurl }}palestras/#construindo-um-analisador-de-executveis-em-c
+[Construindo um analisador de executáveis em C]: https://github.com/ccppbrasil/encontro11/tree/master/FernandoMerces
 
 [Daniel Quadros]: https://github.com/dquadros
 [Fabio Galuppo]: https://github.com/fabiogaluppo
@@ -324,4 +324,4 @@ Outback Shopping Eldorado
 [Rodrigo Madera]: https://github.com/madera
 [André Tupinambá]: https://github.com/andrelrt
 [Rodrigo Delduca]: https://github.com/skhaz
-[Fernando Mercês]: {{ site.baseurl }}programmers/#fernando-mercesg
+[Fernando Mercês]: https://github.com/merces/pev
