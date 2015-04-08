@@ -106,40 +106,6 @@ function printHireableRow(hireable) {
     return output;
 }
 
-function printContest() {
-    var contest = document.getElementById('contest');
-    if (contest) {
-        $.ajax({url : 'https://api.github.com/repos/ccppbrasil/logo'})
-            .then(function(repo) {
-                contest.innerHTML +=
-                '    <tr>\n' +
-                '      <td><a href="https://github.com/ccppbrasil/logo"><img src="https://github.com/ccppbrasil/logo/raw/master/ccppbrasil.png" /></a></td>\n' +
-                '      <td>Logo atual. Aparentemente faz lembrar muito "Casa & Construção".</td>\n' +
-                '      <td style="text-align: center">' + repo.stargazers_count + '</td>\n' +
-                '    </tr>\n';
-                return output;
-            });
-        $.ajax({url : 'https://api.github.com/repos/ccppbrasil/logo/pulls'})
-            .then(function(pulls) {
-                for (var i in pulls) {
-                    if (pulls[i].head.ref == "master") {
-                        contest.innerHTML += printContestRow(pulls[i]);
-                    }
-                }
-            });
-    }
-}
-
-function printContestRow(pull) {
-    var output =
-    '    <tr>\n' +
-    '      <td><a href="' + pull.head.repo.html_url + '"><img src="' + pull.head.repo.html_url + '/raw/master/ccppbrasil.png" /></a></td>\n' +
-    '      <td>' + markdown.toHTML(pull.body) + '</td>\n' +
-    '      <td style="text-align: center">' + pull.head.repo.stargazers_count + '</td>\n' +
-    '    </tr>\n';
-    return output;
-}
-
 $(document).ready(function() {
   jQuery.support.cors = true;
 
@@ -148,5 +114,4 @@ $(document).ready(function() {
   });
 
   printHireables('ccppbrasil');
-  printContest();
 });

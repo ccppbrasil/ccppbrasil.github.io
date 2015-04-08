@@ -25,20 +25,3 @@
     width: 70px;
     height: 70px;
 }
-
-#contest-table {
-  font-size: 12.8px;
-}
-@media (min-width: 38rem) {
-  #contest-table {
-    font-size: 14px;
-  }
-}
-
-#contest-table img {
-    margin: 0;
-    width: 120px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
