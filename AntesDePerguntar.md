@@ -16,13 +16,9 @@ Estas regras são um meio de tornar a lista produtiva para todos os membros. Nin
 
 Ocasionalmente não gera problemas, mas empregado com frequência e, principalmente, direcionado aos outros membros do grupo, o palavrão atrapalha o bom funcionamento da lista.
 
-- Discurso de ódio
+- Discurso de ódio e/ou preconceito
 
-Incitar violência diverge do bom funcionamento de qualquer bate papo.
-
-- Preconceito (cor, credo, orientaçao sexual e cia)
-
-Preconceito de qualquer natureza não será aceito.
+Não será aceita qualquer manifestação de preconceito (cor, credo, orientaçao sexual, etc) ou incitação à violência.
 
 - Envio de material pornografico: fotos, videos, links, etc.
 
@@ -34,7 +30,7 @@ Temas complexos e que muitas vezes envolvem paixões e causam divergências.
 
 - Envio de trabalhos da faculdade
 
-A lista não existe para resolver o seu trabalho de faculdade. Mas é bem aberta para que você tire suas dúvidas, mesmo que iniciais, para resolver ele. Tente fazer o exercício primeiro.
+A lista não existe para resolver o seu trabalho de faculdade, mas está aberta para que você tire suas dúvidas. Tente resolver o exercício primeiro, depois use a lista para sanar suas dúvidas pontuais.
 
 - Spam
 
@@ -49,4 +45,4 @@ Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até são
 
 - Oportunidade de emprego
 
-Este tema já foi proibido na lista e gera controvérsia. Hoje oportunidades de emprego são toleradas, desde que a lista não seja usada como mural de propostas de emprego. Achou uma oportunidade realmente interessante, está MUITO difícil de conseguir um profissional C/C++, ok. Existem sites especializados em empregos, não é o foco desta lista. Empregos off-topic são considerados spam.
+Ofertas de emprego não são permitidas na lista. Responder ofertas de emprego com qualquer tipo de comentário, ainda que citando essa regra, fará de você um pária por toda eternidade.
