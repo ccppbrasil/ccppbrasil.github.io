@@ -1,6 +1,6 @@
 Antes de enviar mensagens para o grupo ccppbrasil, por favor observe algumas normas de conduta que adotamos na lista.
 
-Estas regras são um meio de tornar a lista produtiva para todos os membros. Ninguém vai ser banido da lista ou sofre punição em caso de descumprir essas diretrizes (salvo envio de spam).
+Estas regras são um meio de tornar a lista produtiva para todos os membros. Ninguém vai ser banido da lista ou sofrer punição em caso de descumprir essas diretrizes (salvo envio de spam).
 
 # O que queremos?
 
