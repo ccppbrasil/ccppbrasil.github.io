@@ -45,4 +45,4 @@ Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até são
 
 - Oportunidade de emprego
 
-Ofertas de emprego não são permitidas na lista. Responder ofertas de emprego com qualquer tipo de comentário, ainda que citando essa regra, fará de você um pária por toda eternidade.
+_A priori_ ofertas de emprego não são permitidas na lista. A lista não é apropriada para procura e oferta de empregos, tendo outros sites melhores para isso. No entanto, eventuais mensagens são parcialmente toleradas, desde que não se torne uma prática comum de um membro. Também não é oportuno responder as eventuais mensagens que apareçam. O envio constante de ofertas de emprego será considerado spam.
