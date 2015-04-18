@@ -1,6 +1,7 @@
 Antes de enviar mensagens para o grupo ccppbrasil, por favor observe algumas normas de conduta que adotamos na lista.
 
-Estas regras são um meio de tornar a lista produtiva para todos os membros. Ninguém vai ser banido da lista ou sofrer punição em caso de descumprir essas diretrizes (salvo envio de spam).
+Estas regras são um meio de tornar a lista produtiva para todos os membros. A lista é moderada somente na primeira mensagem para evitar spam. Ninguém vai ser banido da lista ou sofrer punição em caso de descumprir essas diretrizes (salvo envio de spam).
+
 
 # O que queremos?
 
@@ -45,4 +46,4 @@ Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até são
 
 - Oportunidade de emprego
 
-_A priori_ ofertas de emprego não são permitidas na lista. A lista não é apropriada para procura e oferta de empregos, tendo outros sites melhores para isso. No entanto, eventuais mensagens são parcialmente toleradas, desde que não se torne uma prática comum de um membro. Também não é oportuno responder as eventuais mensagens que apareçam. O envio constante de ofertas de emprego será considerado spam.
+_A priori_ ofertas de emprego não são permitidas na lista. A lista não é apropriada para procura e oferta de empregos, tendo outros sites melhores para isso. No entanto, eventuais mensagens são parcialmente toleradas, desde que não se torne prática comum de um membro. Também não é oportuno responder as eventuais mensagens que apareçam. O envio constante de ofertas de emprego será considerado spam.
