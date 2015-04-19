@@ -42,7 +42,7 @@ Essa é a única maneira de ser banido na lista.
 
 - Fazer propaganda
 
-Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até são adicionadas na página de projetos brasileiros do grupo, caso seja de interesse. Propagandas de cursos, palestras, eventos e outros assuntos ligados à informática são toleradas, no entanto não use a lista para propagandas frequentes, isso é considerado spam. Propagandas off-topic são consideradas spam.
+Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até adicionadas na página de projetos brasileiros do grupo, caso seja de interesse. Propagandas de cursos, palestras, eventos e outros assuntos ligados à informática são toleradas, no entanto não use a lista para propagandas frequentes, isso é considerado spam. Propagandas off-topic são consideradas spam.
 
 - Oportunidade de emprego
 
