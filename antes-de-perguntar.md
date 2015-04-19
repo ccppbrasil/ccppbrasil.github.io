@@ -46,4 +46,4 @@ Propaganda de bibliotecas feitas pelos membros é bem vinda. Podem ser até são
 
 - Oportunidade de emprego
 
-_A priori_ ofertas de emprego não são permitidas na lista. A lista não é apropriada para procura e oferta de empregos, tendo outros sites melhores para isso. No entanto, eventuais mensagens são parcialmente toleradas, desde que não se torne prática comum de um membro. Também não é oportuno responder as eventuais mensagens que apareçam. O envio constante de ofertas de emprego será considerado spam.
+_A priori_ ofertas de emprego não são permitidas na lista. A lista não é apropriada para procura e oferta de empregos, tendo outros sites melhores para isso. No entanto, eventuais mensagens são parcialmente toleradas, desde que não se torne prática comum de um membro. Também não é oportuno responder, na lista, às eventuais mensagens que apareçam, **responda privativamente**. O envio constante de ofertas de emprego será considerado spam.
