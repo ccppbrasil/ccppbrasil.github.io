@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projetos brasileiros open source"
+title: Projetos brasileiros open source
 published: true
 ---
 
@@ -59,6 +59,10 @@ published: true
 # Web
 
 - [Tufão](https://github.com/vinipsmaker/tufao): Uma API estilo Node.js para desenvolvimento Web com Qt/C++.
+
+# Educação
+
+- [TuringSim](https://github.com/zxmarcos/turing-simulator) - GPLv3: Software educacional para construção e simulação de máquinas de Turing.
 
 # Outros
 
