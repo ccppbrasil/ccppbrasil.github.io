@@ -47,6 +47,10 @@ published: true
 - [File Depends](http://www.thradams.com/codeblog/filedepends.htm): ferramenta que mostra os arquivos .h e suas dependências.
 - [dbf2txt](https://github.com/bcsanches/dbf2txt) - zlib: Ferramenta para extrair dados de arquivos db2 em formato texto.
 
+# Desktop
+
+- [Gnomato](https://github.com/diegorubin/gnomato) - GPLv3: Timer desenvolvido com base na Técnica Pomodoro. Desenvolvido para GNU/Linux utilizando GTK3.
+
 # Jogos
 
 - [Phobos](https://github.com/bcsanches/phobos3d/) - zlib: Motor 3d baseado em Ogre para desenvolvimento de jogos.
