@@ -9,9 +9,9 @@ published: true
 
 ##Bem-vindo(a) ao C & C++ Brasil!
 
-O Grupo é uma associação de profissionais, aficcionados, estudiosos e demais
-interessados nas linguagens de programação C e C++ e em tecnologias associadas;
-sua missão é promover a integração entre seus membros, bem como explorar maior
+O Grupo é uma associação de profissionais, aficionados, estudiosos e demais
+interessados nas linguagens de programação C e C++ e em tecnologias associadas.
+Sua missão é promover a integração entre seus membros, bem como explorar maior
 integração com outras comunidades nacionais e internacionais.
 
 Todos os programadores de boa vontade e escovadores de bits estão convidados a
