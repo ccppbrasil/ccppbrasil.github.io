@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 ##12° Encontro de Programadores C & C++ do Brasil
 
 Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais divertida da linguagem mais famosa, mais produtiva e mais... produtiva!
@@ -20,7 +21,7 @@ Rua Buenos Aires, 68 - Centro, Rio de Janeiro - RJ
 
 ###Data
 
-215 de Agosto de 2015.
+15 de Agosto de 2015.
 
 ###Chamada de Trabalhos
 
