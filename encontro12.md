@@ -37,4 +37,4 @@ A definir.
 
 ###Inscrições
 
-A definir.
+Estamos preparando, por favor, verifique novamente em breve!
