@@ -37,8 +37,4 @@ A definir.
 
 ###Inscrições
 
-<<<<<<< HEAD
 Estamos preparando, por favor, verifique novamente em breve!
-=======
-A definir.
->>>>>>> branch 'master' of https://github.com/ccppbrasil/ccppbrasil.github.io.git
