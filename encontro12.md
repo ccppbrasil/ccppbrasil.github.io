@@ -37,7 +37,7 @@ A definir.
 
 ###Inscrições
 
-Para fazer a sua inscrição, por favor, use o formulário de inscrição: http://goo.gl/forms/z0NqCZHKeS
+Para fazer a sua inscrição, por favor, use o formulário de inscrição: [http://goo.gl/forms/z0NqCZHKeS](http://goo.gl/forms/z0NqCZHKeS)
 
 O método de pagamento disponível para este evento é o PayPal.
 
