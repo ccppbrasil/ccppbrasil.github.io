@@ -58,4 +58,4 @@ O método de pagamento disponível para este evento é o PayPal.
 
 Atenção! O número máximo de participantes neste evento é 50 pessoas!
 
-Caso não seja possível usar o PayPal, por favor, contacte a organização diretamente no nosso grupo de discussão ou diretamente o Pêu Lamarão em pedrobreve! ponto lamarao arroba gmail ponto com
+Caso não seja possível usar o PayPal, por favor, contacte a organização diretamente no nosso grupo de discussão ou diretamente o Pêu Lamarão em pedro ponto lamarao arroba gmail ponto com
