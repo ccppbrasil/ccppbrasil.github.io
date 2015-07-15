@@ -33,7 +33,20 @@ Propostas acompanhadas de um artigo escrito, em qualquer formato, serão conside
 
 ###Programação
 
-A definir.
+Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
+
+- 9:00 - 9:30 — Início tumultuado
+- 9:30 - 10:30 — Palestra: **Usando MVC na EFL**, por Larry Lira
+- 10:30 - 11:00 — Cochilo
+- 11:00 - 12:00 — Palestra: **Desenvolvendo interfaces gráficas usando EFL++**, por Felipe Almeida
+- 12:00 - 13:00 — Almoço
+- 13:30 - 14:00 — Siesta
+- 14:00 - 15:00 — Palestra: **Troubleshooting em Equipes Remotas com Debugging Tools for Windows**, Wanderley Caloni
+- 15:00 - 15:30 — Banheiro
+- 15:30 - 16:30 — Palestra:
+- 16:30 - 17:00 — Cochilo
+- 17:00 - 18:00 — Painel do Grupo de C & C++ do Brasil
+- 18:00 - 18:30 — Fechamento tumultado, seguido de translado para a birita
 
 ###Inscrições
 
