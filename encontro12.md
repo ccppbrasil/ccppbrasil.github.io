@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 12o. Encontro C/C++ Brasil
+title: 12° Encontro de Programadores C & C++ do Brasil
 published: true
 ---
 
-
-
-##12° Encontro de Programadores C & C++ do Brasil
 
 **Última atualização: 2015-07-22**
 
@@ -14,7 +11,7 @@ Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais d
 
 Desta vez, na Cidade Maravilhosa, terra de sol, praia e bixcoito de polvilho!
 
-###Local
+##Local
 
 RioSoft
 
@@ -23,15 +20,15 @@ Rua Buenos Aires, 68 - Centro, Rio de Janeiro - RJ
 
 [https://www.google.com/maps/place/R.+Buenos+Aíres,+68+-+Centro,+Rio+de+Janeiro+-+RJ,+20070-022,+Brasil](https://www.google.com/maps/place/R.+Buenos+Aíres,+68+-+Centro,+Rio+de+Janeiro+-+RJ,+20070-022,+Brasil)
 
-###Data
+##Data
 
 15 de Agosto de 2015.
 
-###Chamada de Trabalhos
+##Chamada de Trabalhos
 
 A chamada de trabalhos está encerrada!
 
-###Programação
+##Programação
 
 Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
 
@@ -49,7 +46,7 @@ Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
 - 18:00 - 18:30 — Painel do Grupo de C & C++ do Brasil 
 - 18:30 - 19:00 — Fechamento tumultado, seguido de translado para a birita
 
-###Inscrições
+##Inscrições
 
 Para fazer a sua inscrição, por favor, use o formulário de inscrição: [http://goo.gl/forms/z0NqCZHKeS](http://goo.gl/forms/z0NqCZHKeS)
 
