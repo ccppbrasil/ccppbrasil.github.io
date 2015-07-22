@@ -8,6 +8,8 @@ published: true
 
 ##12° Encontro de Programadores C & C++ do Brasil
 
+**Última atualização: 2015-07-22**
+
 Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais divertida da linguagem mais famosa, mais produtiva e mais... produtiva!
 
 Desta vez, na Cidade Maravilhosa, terra de sol, praia e bixcoito de polvilho!
@@ -27,11 +29,7 @@ Rua Buenos Aires, 68 - Centro, Rio de Janeiro - RJ
 
 ###Chamada de Trabalhos
 
-O ccppbrasil.org convida a todos os membros da comunidade a submeter propostas de trabalho para apresentação no evento!
-
-Por favor, acesse o seguinte formulário para submeter a sua proposta: [http://goo.gl/forms/h4F3xFuJbw](http://goo.gl/forms/h4F3xFuJbw)
-
-Propostas acompanhadas de um artigo escrito, em qualquer formato, serão consideradas com grande carinho. :-)
+A chamada de trabalhos está encerrada!
 
 ###Programação
 
@@ -43,12 +41,13 @@ Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
 - 11:00 - 12:00 — Palestra: **Desenvolvendo interfaces gráficas usando EFL++**, por Felipe Almeida
 - 12:00 - 13:00 — Almoço
 - 13:30 - 14:00 — Siesta
-- 14:00 - 15:00 — Palestra: **Troubleshooting em Equipes Remotas com Debugging Tools for Windows**, Wanderley Caloni
+- 14:00 - 15:00 — Palestra: **Troubleshooting em Equipes Remotas com Debugging Tools for Windows**, por Wanderley Caloni
 - 15:00 - 15:30 — Banheiro
-- 15:30 - 16:30 — Palestra:
+- 15:30 - 16:30 — Palestra: **TCP assíncrono usando C++11 e Boost.Asio**, por Rodrigo Strauss
 - 16:30 - 17:00 — Cochilo
-- 17:00 - 18:00 — Painel do Grupo de C & C++ do Brasil
-- 18:00 - 18:30 — Fechamento tumultado, seguido de translado para a birita
+- 17:00 - 18:00 — Palestra: **O que é melhor, "Array de Struct" ou "Struct de Arrays"?**, por André Tupinambá  
+- 18:00 - 18:30 — Painel do Grupo de C & C++ do Brasil 
+- 18:30 - 19:00 — Fechamento tumultado, seguido de translado para a birita
 
 ###Inscrições
 
