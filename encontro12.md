@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 12° Encontro de Programadores C & C++ do Brasil
+title: "12° Encontro de Programadores C & C++ do Brasil"
 published: true
 ---
+
 
 
 **Última atualização: 2015-07-22**
@@ -40,7 +41,7 @@ Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
 - 13:30 - 14:00 — Siesta
 - 14:00 - 15:00 — Palestra: **Troubleshooting em Equipes Remotas com Debugging Tools for Windows**, por Wanderley Caloni
 - 15:00 - 15:30 — Banheiro
-- 15:30 - 16:30 — Palestra: **TCP assíncrono usando C++11 e Boost.Asio**, por Rodrigo Strauss
+- 15:30 - 16:30 — Palestra: **TCP assíncrono usando C++11 e Boost.Asio**, por Rodrigo Strauss ([Slides](http://www.slideshare.net/rodrigostrauss/tcp-assncrono-usando-c11-e-boost-asio), [Vídeo](https://youtu.be/JjANXR-diTM?t=18382))
 - 16:30 - 17:00 — Cochilo
 - 17:00 - 18:00 — Palestra: **O que é melhor, "Array de Struct" ou "Struct de Arrays"?**, por André Tupinambá  
 - 18:00 - 18:30 — Painel do Grupo de C & C++ do Brasil 
