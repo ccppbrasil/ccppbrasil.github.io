@@ -6,9 +6,8 @@ published: true
 
 
 
-**Última atualização: 2015-07-22**
 
-Chegou a hora! Venha participar da reunião mais famosa, mais produtiva e mais divertida da linguagem mais famosa, mais produtiva e mais... produtiva!
+**Última atualização: 2015-07-22**
 
 Desta vez, na Cidade Maravilhosa, terra de sol, praia e bixcoito de polvilho!
 
@@ -31,7 +30,7 @@ A chamada de trabalhos está encerrada!
 
 ##Programação
 
-Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
+Programação:
 
 - 9:00 - 9:30 — Início tumultuado
 - 9:30 - 10:30 — Palestra: **Usando MVC na EFL**, por Larry Lira
@@ -49,10 +48,4 @@ Estamos ainda fazendo ajustes finos, mas a programação geral é esta.
 
 ##Inscrições
 
-Para fazer a sua inscrição, por favor, use o formulário de inscrição: [http://goo.gl/forms/z0NqCZHKeS](http://goo.gl/forms/z0NqCZHKeS)
-
-O método de pagamento disponível para este evento é o PayPal.
-
-Atenção! O número máximo de participantes neste evento é 50 pessoas!
-
-Caso não seja possível usar o PayPal, por favor, contacte a organização diretamente no nosso grupo de discussão ou diretamente o Pêu Lamarão em pedro ponto lamarao arroba gmail ponto com
+Encerradas.
