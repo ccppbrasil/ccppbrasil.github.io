@@ -7,6 +7,7 @@ published: true
 
 
 
+
 **Última atualização: 2015-07-22**
 
 Desta vez, na Cidade Maravilhosa, terra de sol, praia e bixcoito de polvilho!
@@ -33,7 +34,7 @@ A chamada de trabalhos está encerrada!
 Programação:
 
 - 9:00 - 9:30 — Início tumultuado
-- 9:30 - 10:30 — Palestra: **Usando MVC na EFL**, por Larry Lira
+- 9:30 - 10:30 — Palestra: **Usando MVC na EFL**, por Larry Lira ([Slides](https://docs.google.com/presentation/d/1cJdq4W_ADl687oAGB7xxbkmPPiD__7aKUeIo14QWhZk/edit?usp=sharing), [Video](https://www.youtube.com/watch?v=JjANXR-diTM&feature=youtu.be&t=2207))
 - 10:30 - 11:00 — Cochilo
 - 11:00 - 12:00 — Palestra: **Desenvolvendo interfaces gráficas usando EFL++**, por Felipe Almeida
 - 12:00 - 13:00 — Almoço
