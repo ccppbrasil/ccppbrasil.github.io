@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projetos brasileiros open source"
+title: Projetos brasileiros open source
 published: true
 ---
 
@@ -32,6 +32,7 @@ published: true
 
 - [Tio](https://code.google.com/p/tio) - Apache License 2.0: Servidor de contêineres multiplataforma com foco no padrão "publish/subscribe".
 - [DistributedCL](http://sf.net/projects/distributedcl) - MIT License: Middleware de processamento distribuído em GPU com a API OpenCL.
+- [Lwan](http://lwan.ws) - GPLv2+ License: Servidor HTTP escalável de alto desempenho.
 
 # Testes
 
@@ -46,6 +47,10 @@ published: true
 - [File Depends](http://www.thradams.com/codeblog/filedepends.htm): ferramenta que mostra os arquivos .h e suas dependências.
 - [dbf2txt](https://github.com/bcsanches/dbf2txt) - zlib: Ferramenta para extrair dados de arquivos db2 em formato texto.
 
+# Desktop
+
+- [Gnomato](https://github.com/diegorubin/gnomato) - GPLv3: Timer desenvolvido com base na Técnica Pomodoro. Desenvolvido para GNU/Linux utilizando GTK3.
+
 # Jogos
 
 - [Phobos](https://github.com/bcsanches/phobos3d/) - zlib: Motor 3d baseado em Ogre para desenvolvimento de jogos.
@@ -58,6 +63,10 @@ published: true
 # Web
 
 - [Tufão](https://github.com/vinipsmaker/tufao): Uma API estilo Node.js para desenvolvimento Web com Qt/C++.
+
+# Educação
+
+- [TuringSim](https://github.com/zxmarcos/turing-simulator) - GPLv3: Software educacional para construção e simulação de máquinas de Turing.
 
 # Outros
 

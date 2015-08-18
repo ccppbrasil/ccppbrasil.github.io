@@ -15,7 +15,9 @@ label [members-membership](https://github.com/ccppbrasil/ccppbrasil/issues?label
 no repositório genérico do grupo requisitando sua adição. Após a adição,
 considere se tornar um membro público.
 - Frequentando nosso canal IRC
-[#ccppbrasil](irc://chat.freenode.net:6667/ccppbrasil) no freenode.
+[#ccppbrasil](irc://chat.freenode.net:6667/ccppbrasil) no freenode ou
+[nossa sala no gitter](https://gitter.im/ccppbrasil/ccppbrasil). Há um bot
+sincronizando as mensagens dessas duas mídias.
 - [Editando o site](/faq/como-editar-o-site/) você automaticamente se torna
 [membro do time de editores](https://github.com/orgs/ccppbrasil/teams/editors)
 no GitHub.

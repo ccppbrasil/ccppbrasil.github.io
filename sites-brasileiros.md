@@ -13,6 +13,7 @@ published: true
 - http://0fx66.com/blog/programacao/linguagem-c/
 - http://blog.ricbit.com/search/label/cpp
 - http://www.hogpog.com.br/
+- http://www.thradams.com/
 
 # Portais
 
