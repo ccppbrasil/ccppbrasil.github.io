@@ -20,7 +20,7 @@ Data: 21 de julho de 2015, terceira terça feira do mês
 Hora: 19:00  
 Local: [Amigo Leal](http://www.amigoleal.com.br/), perto do metrô República. 
 
-[Thread](https://groups.google.com/d/topic/ccppbrasil/_vp8VSZe2cA/discussion)
+[Thread](https://groups.google.com/d/msg/ccppbrasil/_vp8VSZe2cA/1z2z9KPGrs8J)  
 [Fotos](https://photos.google.com/share/AF1QipNYSeJhE1eHbgJdi1nwbrf_8AsHEn7SXE_tw-KuIRR077NGZBRO7lusxYTtZXnvZw?key=X0FWRWJtUDlBWmFnV0I2TDBPdDZHMGVJay04ZDNB)
 
 
