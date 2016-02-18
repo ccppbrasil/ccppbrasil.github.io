@@ -7,7 +7,7 @@ kramdown:
   toc_levels:        1..6
   use_coderay:       false
 
-highlighter:         pygments
+highlighter:         rouge
 
 gems:
   - jekyll-redirect-from
