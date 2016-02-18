@@ -63,14 +63,14 @@ images:
     - /public/img/encontros/11/23.jpg
 ---
 
-##11° Encontro de Programadores C & C++ do Brasil
+## 11° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-11 %} {% include flexslider.html %}
 
-###Local
-**Microsoft Brasil**  
-*Av. Das Nações Unidas, 12901 &ndash; 31. Andar*  
-*São Paulo - Capital*  
+### Local
+**Microsoft Brasil**
+*Av. Das Nações Unidas, 12901 &ndash; 31. Andar*
+*São Paulo - Capital*
 
 | Atividades                                                  | Palestrantes                |
 |-------------------------------------------------------------|-----------------------------|
@@ -86,15 +86,15 @@ images:
 | [Mágica com Qt's meta-object system][]                      | [Rodrigo Delduca][]         |
 | [Construindo um analisador de executáveis em C][]           | [Fernando Mercês][]         |
 
-##10° Encontro de Programadores C & C++ do Brasil
+## 10° Encontro de Programadores C & C++ do Brasil
 <sub>Encontro X</sub>
 
-###Local
+### Local
 Instituto de Matemática e Estatística da UERJ
 
 R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 
-###Data
+### Data
 25/05/2013
 
 | Atividade                                                        | Palestrante                  |
@@ -114,15 +114,15 @@ R. São Francisco Xavier, 524 - Auditório RAV62 - Rio de Janeiro
 
 ---
 
-##9° Encontro de Programadores C & C++ do Brasil
+## 9° Encontro de Programadores C & C++ do Brasil
 <sub>C++ Renaissance</sub>
 
-###Local
+### Local
 Microsoft Informática Ltda
 
 Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 
-###Data
+### Data
 28/01/2012
 
 | Atividade                                                      | Palestrante                       |
@@ -136,16 +136,16 @@ Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 
 ---
 
-##8° Encontro de Programadores C & C++ do Brasil
+## 8° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-8 %} {% include flexslider.html %}
 
-###Local
+### Local
 Totvs S.A.
 
 Av Brás Leme, 1631, Casa Verde, São Paulo - SP
 
-###Data
+### Data
 17/09/2011
 
 | Atividade                                                                 | Palestrante           |
@@ -161,14 +161,14 @@ Av Brás Leme, 1631, Casa Verde, São Paulo - SP
 
 ---
 
-##7° Encontro de Programadores C & C++ do Brasil
+## 7° Encontro de Programadores C & C++ do Brasil
 
-###Local
+### Local
 Century Flat Paulista
 
 R. Teixeira da Silva, 647 - Paraíso
 
-###Data
+### Data
 14/08/2010
 
 | Atividade                                                    | Palestrante            |
@@ -181,14 +181,14 @@ R. Teixeira da Silva, 647 - Paraíso
 
 ---
 
-##6° Encontro de Programadores C & C++ do Brasil
+## 6° Encontro de Programadores C & C++ do Brasil
 
-###Local
+### Local
 Auditório da Abinee
 
 Avenida Paulista, 1439 - 6º andar
 
-###Data
+### Data
 06/02/2010
 
 | Atividade                                         | Palestrante               |
@@ -203,17 +203,17 @@ Avenida Paulista, 1439 - 6º andar
 
 ---
 
-##5° Encontro de Programadores C & C++ do Brasil
+## 5° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-5 %} {% include flexslider.html %}
 
-###Local
+### Local
 Microsoft Informática Ltda
 
 Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 Auditórios 1 e 2
 
-###Data
+### Data
 04/10/2008
 
 | Atividade                                          | Palestrante          |
@@ -229,17 +229,17 @@ Auditórios 1 e 2
 
 ---
 
-##4° Encontro de Programadores C & C++ do Brasil
+## 4° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-4 %} {% include flexslider.html %}
 
-###Local
+### Local
 SEPROSP (Sindicato das Empresas de Processamento de Dados e Serviços de
 Informática do Estado de São Paulo)
 
 Rua Professor Tamandaré Toledo, 69 - 3. andar Itaim Bibi - São Paulo - SP
 
-###Data
+### Data
 29/03/2008
 
 | Atividade                                                                | Palestrante     |
@@ -252,16 +252,16 @@ Rua Professor Tamandaré Toledo, 69 - 3. andar Itaim Bibi - São Paulo - SP
 
 ---
 
-##3° Encontro de Programadores C & C++ do Brasil
+## 3° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-3 %} {% include flexslider.html %}
 
-###Local
+### Local
 APEOSP
 
 Praça da República
 
-###Data
+### Data
 19/01/2008
 
 | Atividade                                                                    | Palestrante       |
@@ -273,12 +273,12 @@ Praça da República
 
 ---
 
-##2° Encontro de Programadores C & C++ do Brasil
+## 2° Encontro de Programadores C & C++ do Brasil
 
-###Local
+### Local
 Casa do Espeto - São Paulo - SP
 
-###Data
+### Data
 25/03/2006
 
 | Atividade                                                                    | Palestrante       |
@@ -287,12 +287,12 @@ Casa do Espeto - São Paulo - SP
 
 ---
 
-##1° Encontro de Programadores C & C++ do Brasil
+## 1° Encontro de Programadores C & C++ do Brasil
 
-###Local
+### Local
 Outback Shopping Eldorado
 
-###Data
+### Data
 17/12/2005
 
 | Atividade                                                                    | Palestrante       |
@@ -301,7 +301,7 @@ Outback Shopping Eldorado
 
 ---
 
-##Material de referência
+## Material de referência
 
 
 [Otimização em C: História, Mitos e Esquisitices]: https://github.com/ccppbrasil/encontro11/tree/master/DanielQuadros

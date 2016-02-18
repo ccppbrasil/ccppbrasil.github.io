@@ -7,7 +7,7 @@ published: true
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
   src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil" />
 
-##Bem-vindo(a) ao C & C++ Brasil!
+## Bem-vindo(a) ao C & C++ Brasil!
 
 O Grupo é uma associação de profissionais, aficionados, estudiosos e demais
 interessados nas linguagens de programação C e C++ e em tecnologias associadas.

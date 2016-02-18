@@ -27,7 +27,7 @@ cacos que sobraram de outros cantos da rede global. O site passou a morar no
 [GitHub Pages](http://pages.github.com/), e foi iniciada a
 [organização GitHub do grupo](https://github.com/orgs/ccppbrasil).
 
-###Proposta original
+### Proposta original
 
 >Um dia desses conversando com o Rodrigo Strauss, falando sobre como é
 >interessante trocar informações e experiências sobre C++, ele teve a brilhante

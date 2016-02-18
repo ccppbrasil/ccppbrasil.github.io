@@ -1,5 +1,5 @@
-#C & C++ Brasil
-###O Grupo de usuários C & C++ do Brasil
+# C & C++ Brasil
+### O Grupo de usuários C & C++ do Brasil
 
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
   src="http://ccppbrasil.github.io/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil" />

@@ -12,7 +12,7 @@ published: true
 
 Desta vez, na Cidade Maravilhosa, terra de sol, praia e bixcoito de polvilho!
 
-##Local
+## Local
 
 RioSoft
 
@@ -21,15 +21,15 @@ Rua Buenos Aires, 68 - Centro, Rio de Janeiro - RJ
 
 [https://www.google.com/maps/place/R.+Buenos+Aíres,+68+-+Centro,+Rio+de+Janeiro+-+RJ,+20070-022,+Brasil](https://www.google.com/maps/place/R.+Buenos+Aíres,+68+-+Centro,+Rio+de+Janeiro+-+RJ,+20070-022,+Brasil)
 
-##Data
+## Data
 
 15 de Agosto de 2015.
 
-##Chamada de Trabalhos
+## Chamada de Trabalhos
 
 A chamada de trabalhos está encerrada!
 
-##Programação
+## Programação
 
 Programação:
 
@@ -43,10 +43,10 @@ Programação:
 - 15:00 - 15:30 ¿ Banheiro
 - 15:30 - 16:30 ¿ Palestra: **TCP assíncrono usando C++11 e Boost.Asio**, por Rodrigo Strauss ([Slides](http://www.slideshare.net/rodrigostrauss/tcp-assncrono-usando-c11-e-boost-asio), [Vídeo](https://youtu.be/JjANXR-diTM?t=18382))
 - 16:30 - 17:00 ¿ Cochilo
-- 17:00 - 18:00 ¿ Palestra: **O que é melhor, "Array de Struct" ou "Struct de Arrays"?**, por André Tupinambá  
-- 18:00 - 18:30 ¿ Painel do Grupo de C & C++ do Brasil 
+- 17:00 - 18:00 ¿ Palestra: **O que é melhor, "Array de Struct" ou "Struct de Arrays"?**, por André Tupinambá
+- 18:00 - 18:30 ¿ Painel do Grupo de C & C++ do Brasil
 - 18:30 - 19:00 ¿ Fechamento tumultado, seguido de translado para a birita
 
-##Inscrições
+## Inscrições
 
 Encerradas.
