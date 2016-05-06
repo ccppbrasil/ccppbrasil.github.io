@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Antes de perguntar na lista"
+published: true
+---
+
 Antes de enviar mensagens para o grupo ccppbrasil, por favor observe algumas normas de conduta que adotamos na lista.
 
 Estas regras são um meio de tornar a lista produtiva para todos os membros. A lista é moderada somente na primeira mensagem para evitar spam. Ninguém vai ser banido da lista ou sofrer punição em caso de descumprir essas diretrizes (salvo envio de spam).
