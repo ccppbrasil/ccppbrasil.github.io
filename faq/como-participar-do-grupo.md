@@ -18,7 +18,7 @@ considere se tornar um membro público.
 [#ccppbrasil](irc://chat.freenode.net:6667/ccppbrasil) no freenode ou
 [nossa sala no gitter](https://gitter.im/ccppbrasil/ccppbrasil). Há um bot
 sincronizando as mensagens dessas duas mídias.
-- [Entrando no grupo do Telegram](https://telegram.me/ccppbrasil).
+- [Entrando no grupo do Telegram](https://telegram.me/ccppbrasil) (prepare sua franquia de internet, pois ela vai estourar poucos segundos após entrar no grupo com o flood interminável de stickers do Delduca).
 - [Editando o site](/faq/como-editar-o-site/) você automaticamente se torna
 [membro do time de editores](https://github.com/orgs/ccppbrasil/teams/editors)
 no GitHub.
