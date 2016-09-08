@@ -14,6 +14,8 @@ published: true
 - [PEV](http://sourceforge.net/projects/pev/) - GPLv3: PE analysis toolkit com utilitários específicos para análise de malware.
 - [StJude/StMichael](http://sourceforge.net/projects/stjude/) BSD: - O StJude/StMichael Project é um IDS Kernel-Level para proteger a integridade de um host.
 - [T50](http://t50.sourceforge.net/) - GNUv2: Injetor de pacotes multi-protocolo para sistemas *nix, suportando atualmente 15 protocolos.
+- [0d1n](https://github.com/CoolerVoid/0d1n) - GNUv3: Ferramenta para fuzzing no protocolo HTTP/s. 
+- [Raptor](https://github.com/CoolerVoid/raptor_waf) - GNUv3: Firewall para web que faz uso de automato finito deterministico. 
 
 # Embarcados
 
@@ -46,6 +48,7 @@ published: true
 
 - [File Depends](http://www.thradams.com/codeblog/filedepends.htm): ferramenta que mostra os arquivos .h e suas dependências.
 - [dbf2txt](https://github.com/bcsanches/dbf2txt) - zlib: Ferramenta para extrair dados de arquivos db2 em formato texto.
+- [codewarrior](https://github.com/CoolerVoid/codewarrior) - GNUv3: ferramenta para ajudar em code review e code walk
 
 # Desktop
 
@@ -67,6 +70,10 @@ published: true
 # Educação
 
 - [TuringSim](https://github.com/zxmarcos/turing-simulator) - GPLv3: Software educacional para construção e simulação de máquinas de Turing.
+
+# Machine Learning
+
+- [libtext_bayes](https://github.com/CoolerVoid/libtext_bayes) - GNUv3: biblioteca para classificar textos usando naive bayes
 
 # Outros
 
