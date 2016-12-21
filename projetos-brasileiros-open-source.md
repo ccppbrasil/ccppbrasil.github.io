@@ -73,6 +73,9 @@ published: true
 
 - [TuringSim](https://github.com/zxmarcos/turing-simulator) - GPLv3: Software educacional para construção e simulação de máquinas de Turing.
 
+# Finanças
+- [OptionsCat](https://github.com/CoolerVoid/optionscat/) - BSD: Um software de fácil uso para trabalhar com derivativos, dispõe de acesso via WEB via https, funções para precificação de opções usando black & scholes com gregas, juros compostos, download de CSV, gestão de rísco, plots etc. 
+
 # Machine Learning
 
 - [libtext_bayes](https://github.com/CoolerVoid/libtext_bayes) - GPLv3: biblioteca para classificar textos usando naive bayes
