@@ -51,6 +51,7 @@ published: true
 - [File Depends](http://www.thradams.com/codeblog/filedepends.htm): ferramenta que mostra os arquivos .h e suas dependências.
 - [dbf2txt](https://github.com/bcsanches/dbf2txt) - zlib: Ferramenta para extrair dados de arquivos db2 em formato texto.
 - [codewarrior](https://github.com/CoolerVoid/codewarrior) - GPLv3: ferramenta para ajudar em code review e code walk
+- [arit_eval](https://github.com/CoolerVoid/arit_eval) - BSD2: Avaliador de expressões aritméticas, faz uso de recursos anti-integer-overflow. 
 
 # Desktop
 
