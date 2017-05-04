@@ -81,6 +81,10 @@ published: true
 
 - [libtext_bayes](https://github.com/CoolerVoid/libtext_bayes) - GPLv3: biblioteca para classificar textos usando naive bayes
 
+# Bibliotecas diversas
+
+-[Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinãmica em linguagem C.
+
 # Outros
 
 - IPAF
