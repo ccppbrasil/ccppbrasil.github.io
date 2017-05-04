@@ -83,7 +83,7 @@ published: true
 
 # Bibliotecas diversas
 
--[Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinãmica em linguagem C.
+-[Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinâmica em linguagem C.
 
 # Outros
 
