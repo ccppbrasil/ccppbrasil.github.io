@@ -85,6 +85,8 @@ published: true
 
 - [Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinâmica em linguagem C.
 
+- [TombPool](https://github.com/CoolerVoid/tombpool) - GPL3: Biblioteca para trabalhar com thread pool em linguagem C.
+
 # Outros
 
 - IPAF
