@@ -80,6 +80,7 @@ published: true
 # Machine Learning
 
 - [libtext_bayes](https://github.com/CoolerVoid/libtext_bayes) - GPLv3: biblioteca para classificar textos usando naive bayes
+-[libfast_knn](https://github.com/CoolerVoid/libfast_knn) - GPLv3: biblioteca para classificação usando KNN, faz uso  da lib   armadillo para ganhar performance, pode ser adaptado para o uso do BLAS e LAPACK. 
 
 # Bibliotecas diversas
 
