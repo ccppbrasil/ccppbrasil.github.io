@@ -31,15 +31,15 @@ Aguarde nosso próximo encontro do ano em SP (capital), no segundo semestre =)
 
 | Hora | Descrição | Detalhes
 | 09:00 | Abertura
-| 09:30 | Novidades GCC 5, 6, 7 | Gianni Rossi
+| 09:30 | Novidades GCC 5, 6, 7 | [Gianni Rossi](https://bitforge.com.br/)
 | 10:30 | Intervalo
-| 11:00 | Novidades C++ que Funcionam no Visual Studio | Wanderley Caloni
+| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre)
 | 12:00 | Perguntas/Dúvidas
 | 12:30 | Almoço
-| 14:00 | ZMQ e C++ | Fabio Galuppo
-| 15:00 | Título a definir | Fernando Roberto
+| 14:00 | ZMQ e C++ | [Fabio Galuppo](https://fabiogaluppo.com/)
+| 15:00 | Título a definir | [Fernando Roberto](http://www.driverentry.com.br)
 | 16:00 | Intervalo
-| 16:30 | "Por dentro da linkedição" | Rodrigo Strauss
+| 16:30 | "Por dentro da linkedição" | [Rodrigo Strauss](http://www.1bit.com.br)
 | 17:30 | Perguntas/Dúvidas  
 | 18:00 | Painel do Grupo de C & C++ do Brasil
 | 18:30 | Fechamento
