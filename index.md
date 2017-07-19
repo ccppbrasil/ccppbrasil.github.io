@@ -7,6 +7,10 @@ published: true
 <img width="100%" onerror="this.src=http://i.imgur.com/gtJEqPh.png"
   src="/public/img/ccppbrasil-logo.svg" alt="C & C++ Brasil" />
 
+# Não perca nosso próximo encontro dia 2017/08/05, em Indaiatuba, São Paulo!
+
+Mais detalhes no [hot site](/encontro13).
+
 ## Bem-vindo(a) ao C & C++ Brasil!
 
 O Grupo é uma associação de profissionais, aficionados, estudiosos e demais
