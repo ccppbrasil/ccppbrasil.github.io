@@ -37,7 +37,7 @@ Aguarde nosso próximo encontro do ano em SP (capital), no segundo semestre =)
 | 12:00 | Perguntas/Dúvidas
 | 12:30 | Almoço
 | 14:00 | ZMQ e C++ | [Fabio Galuppo](https://fabiogaluppo.com/)
-| 15:00 | Título a definir | [Fernando Roberto](http://www.driverentry.com.br)
+| 15:00 | Windows Drivers: Conceitos Básicos | [Fernando Silva](http://www.driverentry.com.br)
 | 16:00 | Intervalo
 | 16:30 | "Por dentro da linkedição" | [Rodrigo Strauss](http://www.1bit.com.br)
 | 17:30 | Perguntas/Dúvidas  
