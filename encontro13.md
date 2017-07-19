@@ -19,7 +19,7 @@ Vila Vitória, Indaiatuba - SP
 
 ## Data
 
-15 de Agosto de 2015.
+05 de Agosto de 2017, sábado.
 
 ## Chamada de Trabalhos
 
