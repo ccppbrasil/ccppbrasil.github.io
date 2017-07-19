@@ -9,6 +9,8 @@ published: true
 
 # Não perca nosso próximo encontro dia 2017/08/05, em Indaiatuba, São Paulo!
 
+Interessado? Cadastre-se [aqui](https://goo.gl/forms/ccS1IU2wnlk5Pr6b2).
+
 Mais detalhes no [hot site](/encontro13).
 
 ## Bem-vindo(a) ao C & C++ Brasil!

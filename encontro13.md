@@ -46,5 +46,10 @@ Aguarde nosso próximo encontro do ano em SP (capital), no segundo semestre =)
 
 ## Inscrições
 
-Comparecer no local no dia combinado. Ou mais detalhes em breve!
+Abertas! Corra que temos no máximo 60 lugares.
 
+Efetue o cadastro preenchendo nosso [formulário](https://goo.gl/forms/ccS1IU2wnlk5Pr6b2) indicando seu desejo de comparecer e realizando sua pré-reserva.
+
+Poderá ser cobrada a taxa de reserva de até R$ 30,00 após o recebimento de seu cadastro. Porém, no momento pedimos apenas o seu cadastro.
+
+Nos vemos lá! ;)
