@@ -15,6 +15,7 @@ published: true
 - http://blog.ricbit.com/search/label/cpp
 - http://www.thradams.com/
 - https://fabiogaluppo.com/
+- http://walac.github.io/
 
 # Portais
 
