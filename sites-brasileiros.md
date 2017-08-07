@@ -10,10 +10,9 @@ published: true
 - http://www.1bit.com.br/
 - http://www.caloni.com.br/
 - http://www.driverentry.com.br/
-- http://nullonerror.appspot.com/
-- http://0fx66.com/blog/programacao/linguagem-c/
+- https://nullonerror.org/
+- http://0fx66.com/
 - http://blog.ricbit.com/search/label/cpp
-- http://www.hogpog.com.br/
 - http://www.thradams.com/
 
 # Portais
