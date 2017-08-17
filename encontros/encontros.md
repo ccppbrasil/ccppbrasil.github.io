@@ -61,7 +61,50 @@ images:
     - /public/img/encontros/11/21.jpg
     - /public/img/encontros/11/22.jpg
     - /public/img/encontros/11/23.jpg
+  "encontro-13":
+    - /public/img/encontros/13/01.jpg
+    - /public/img/encontros/13/02.jpg
+    - /public/img/encontros/13/03.jpg
+    - /public/img/encontros/13/04.jpg
+    - /public/img/encontros/13/05.jpg
+    - /public/img/encontros/13/06.jpg
+    - /public/img/encontros/13/07.jpg
 ---
+
+## 13° Encontro (Relâmpago) de Programadores C & C++ do Brasil
+
+{% assign images = page.images.encontro-13 %} {% include flexslider.html %}
+
+### Quando
+```
+05 de Agosto de 2017, sábado.
+```
+
+### Local
+```
+Av. Visc. de Indaiatuba, 1277
+Vila Vitória, Indaiatuba - SP
+13338-010 
+(ao lado da Rodovia Santos Dumont)
+```
+
+### Programação
+
+| Hora | Descrição | Detalhes
+| 09:00 | Abertura
+| 09:30 | Novidades GCC 5, 6, 7 | [Gianni Rossi](https://bitforge.com.br/)
+| 10:30 | Intervalo
+| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre)
+| 12:00 | Perguntas/Dúvidas
+| 12:30 | Almoço
+| 14:00 | ZMQ e C++ | [Fabio Galuppo](https://fabiogaluppo.com/)
+| 15:00 | Windows Drivers: Conceitos Básicos | [Fernando Silva](http://www.driverentry.com.br)
+| 16:00 | Intervalo
+| 16:30 | "Por dentro da linkedição" | [Rodrigo Strauss](http://www.1bit.com.br)
+| 17:30 | Perguntas/Dúvidas  
+| 18:00 | Painel do Grupo de C & C++ do Brasil
+| 18:30 | Fechamento
+
 
 ## 12° Encontro de Programadores C & C++ do Brasil
 

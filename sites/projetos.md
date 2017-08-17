@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projetos brasileiros open source
+title: Projetos
 published: true
 ---
 

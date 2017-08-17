@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "13° Encontro (Relâmpago) de Programadores C & C++ do Brasil"
+title: "13° Encontro (último)"
 published: true
 ---
+# 13° Encontro (Relâmpago) de Programadores C & C++ do Brasil
 
 **Última atualização: 2017-07-19**
 
@@ -46,8 +47,5 @@ Aguarde nosso próximo encontro do ano em SP (capital), no segundo semestre =)
 
 ## Inscrições
 
-Abertas! Corra que temos no máximo 60 lugares.
+Encerradas. Para participar deste evento você irá precisar de: plutônio.
 
-Efetue o cadastro preenchendo nosso [formulário](https://goo.gl/forms/ccS1IU2wnlk5Pr6b2) indicando seu desejo de comparecer e realizando sua pré-reserva.
-
-Nos vemos lá! ;)
