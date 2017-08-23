@@ -94,16 +94,20 @@ Vila Vitória, Indaiatuba - SP
 | 09:00 | Abertura
 | 09:30 | Novidades GCC 5, 6, 7 | [Gianni Rossi](https://bitforge.com.br/)
 | 10:30 | Intervalo
-| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre)
+| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre) | [slides](https://github.com/Caloni/ccpptests/blob/a0c6f2a261c63449205181ac230e863ca698d249/slides.txt)
 | 12:00 | Perguntas/Dúvidas
 | 12:30 | Almoço
 | 14:00 | ZMQ e C++ | [Fabio Galuppo](https://fabiogaluppo.com/)
 | 15:00 | Windows Drivers: Conceitos Básicos | [Fernando Silva](http://www.driverentry.com.br)
 | 16:00 | Intervalo
-| 16:30 | "Por dentro da linkedição" | [Rodrigo Strauss](http://www.1bit.com.br)
+| 16:30 | "Por dentro da linkedição" | [Rodrigo Strauss](http://www.1bit.com.br) | [slides](https://www.slideshare.net/rodrigostrauss/entendendo-a-linkedicao-em-c)
 | 17:30 | Perguntas/Dúvidas  
 | 18:00 | Painel do Grupo de C & C++ do Brasil
 | 18:30 | Fechamento
+
+### Conteúdo
+
+O conteúdo deve estar centralizado como submódulos do [repositório do encontro](https://github.com/ccppbrasil/encontro13).
 
 
 ## 12° Encontro de Programadores C & C++ do Brasil
@@ -137,6 +141,10 @@ Rua Buenos Aires, 68 - Centro, Rio de Janeiro - RJ
 | 17:00 | Palestra: **O que é melhor, "Array de Struct" ou "Struct de Arrays"?**, por André Tupinambá
 | 18:00 | Painel do Grupo de C & C++ do Brasil
 | 18:30 | Fechamento tumultado, seguido de translado para a birita
+
+### Conteúdo
+
+O conteúdo deve estar centralizado como submódulos do [repositório do encontro](https://github.com/ccppbrasil/encontro12).
 
 
 ## 11° Encontro de Programadores C & C++ do Brasil
