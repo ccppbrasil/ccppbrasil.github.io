@@ -34,7 +34,7 @@ Aguarde nosso próximo encontro do ano em SP (capital), no segundo semestre =)
 | 09:00 | Abertura | 
 | 09:30 | Novidades GCC 5, 6, 7 | [Gianni Rossi](https://bitforge.com.br/)
 | 10:30 | Intervalo
-| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre)
+| 11:00 | Novidades C++ que Funcionam no Visual Studio | [Wanderley Caloni](http://www.caloni.com.br/sobre) | [slides](https://github.com/Caloni/ccpptests/blob/a0c6f2a261c63449205181ac230e863ca698d249/slides.txt)
 | 12:00 | Perguntas/Dúvidas
 | 12:30 | Almoço
 | 14:00 | ZMQ e C++ | [Fabio Galuppo](https://fabiogaluppo.com/)
