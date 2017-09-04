@@ -8,7 +8,7 @@ Este site teve inicio por volta de 02/12/2005, quando
 [Wanderley Caloni](https://github.com/Caloni) sugeriram a criação de um grupo
 sobre C++. A idéia era fazer reuniões com as pessoas interessadas para trocar
 idéias. Como nem todos os interessados poderiam estar presentes,
-[Thiago Adams](http://www.thradams.com.br) sugeriu que fosse criada uma página
+[Thiago Adams](http://www.thradams.com) sugeriu que fosse criada uma página
 na internet com uma espécie de log da reunião. A idéia foi evoluindo com várias
 sugestões, até que [Hugo Parente](https://github.com/hugopl) sugeriu um wiki.
 
