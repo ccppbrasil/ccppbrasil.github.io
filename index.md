@@ -11,6 +11,24 @@ published: true
 
 Para tirar dúvidas sobre a linguagem e tecnologias relacionadas entre em [nosso fórum](https://groups.google.com/forum/#!forum/ccppbrasil).
 
+---
+
+### Call for Papers do 14° Encontro de Programadores C/C++ Brasil (São Paulo)
+
+Está aberta a temporada de CFP da comunidade C/C++ Brasil para o nosso próximo encontro, que será realizado em Novembro em São Paulo. Clique no link abaixo para enviar sua palestra!
+
+[Call For Papers](https://goo.gl/forms/bFkQYWrJvjoitdT43)
+
+Para quem deseja participar estão abertas as pré-inscrições. Basta clicar no link abaixo para se inscrever. No momento não será cobrado nenhum valor. Você será avisado quando isso acontecer.
+
+[Inscrições](https://goo.gl/forms/EBg9iLU7DgSTpfVW2)
+
+Mais detalhes no evento no [hot site](/encontros/proximo).
+
+---
+
+### Sobre a Comunidade CCPPBR
+
 O Grupo é uma associação de profissionais, aficionados, estudiosos e demais
 interessados nas linguagens de programação C e C++ e em tecnologias associadas.
 Sua missão é promover a integração entre seus membros, bem como explorar maior
