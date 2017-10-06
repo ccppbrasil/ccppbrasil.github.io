@@ -13,17 +13,9 @@ Para tirar dúvidas sobre a linguagem e tecnologias relacionadas entre em [nosso
 
 ---
 
-### Call for Papers do 14° Encontro de Programadores C/C++ Brasil (São Paulo)
+Nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no [Station Vila Olímpia](http://www.stationct.com.br/unidade-vila-olimpia/):
 
-Está aberta a temporada de CFP da comunidade C/C++ Brasil para o nosso próximo encontro, que será realizado em Novembro em São Paulo. Clique no link abaixo para enviar sua palestra!
-
-[Call For Papers](https://goo.gl/forms/bFkQYWrJvjoitdT43)
-
-Para quem deseja participar estão abertas as pré-inscrições. Basta clicar no link abaixo para se inscrever. No momento não será cobrado nenhum valor. Você será avisado quando isso acontecer.
-
-[Inscrições](https://goo.gl/forms/EBg9iLU7DgSTpfVW2)
-
-Mais detalhes no evento no [hot site](/encontros/proximo).
+Se inscreva agora no nosso [hot site](/encontros/proximo)!
 
 ---
 
