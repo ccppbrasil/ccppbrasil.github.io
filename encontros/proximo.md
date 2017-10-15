@@ -64,7 +64,5 @@ Efetue o pagamento com o preço de venda em reais do BTC equivalente a __R$ 50__
 
 ### Call for Papers do 14° Encontro de Programadores C/C++ Brasil (São Paulo)
 
-O CFP deve ser encerrado em breve. Se tem uma proposta para a comunidade envie o quanto antes!
-
-[Call For Papers](https://goo.gl/forms/bFkQYWrJvjoitdT43)
+CFP encerrado. Para escolher as palestras que farão parte do evento [vote nelas](https://goo.gl/forms/QbBOc5TmxUAgKFbi1).
 
