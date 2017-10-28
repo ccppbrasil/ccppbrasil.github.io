@@ -29,7 +29,48 @@ Tel: +55 11 37044377
 
 ### Programação
 
-A definir.
+Mais detalhes sobre as palestras abaixo.
+
+| Hora | Descrição | Palestrante
+| 09:00 | Abertura do Grupo CCPPBR | 
+| 09:30 | C++ dentro da publicidade, arquitetura e design | **Henrique Penteado Kujawski Périgo**
+| 10:30 | Intervalo |
+| 11:00 | Estilos de multitasking cooperativo, loop de eventos e programação assíncrona | **Vinícius dos Santos Oliveira**
+| 12:00 | Almoço |
+| 14:00 | Indo além do arroz com feijão RESTful, enchendo a marmita de gRPC, GraphQL, MQTT, SocketIO e outras misturas | **Rodrigo Delduca**
+| 14:30 | Não faça do zero | **Rosemary Sumitani**
+| 15:00 | Como realmente funciona o if | **Wanderley Caloni**
+| 15:30 | Intervalo |
+| 16:00 | Introdução a Minifilters | **Fernando Roberto da Silva**
+| 17:30 | Anúncios do Grupo CCPPBR |
+| 18:00 | Encerramento/Happy Hour |
+
+### Palestras
+
+#### **Estilos de multitasking cooperativo, loop de eventos e programação assíncrona**
+
+"Seria um resumo de um blog post que fiz um tempo atrás: https://vinipsmaker.wordpress.com/2015/03/08/estilos-de-multitasking-cooperativo-loop-de-eventos-e-programacao-assincrona/"
+
+#### **Introdução a Minifilters**
+
+"Serão apresentados conceitos básicos sobre sistemas de arquivos, cache e memória virtual. Como os filtros se encaixam no Kernel do Windows para receber e encaminhar solicitações de I/O. Na parte prática da palestra, será demonstrado como um filtro pode impedir um determinado arquivo de ser aberto."
+
+#### **Indo além do arroz com feijão RESTful, enchendo a marmita de gRPC, GraphQL, MQTT, SocketIO e outras misturas**
+
+"TBD"
+
+#### **Como realmente funciona o if**
+
+"Através do valor verdade de uma afirmação, e de onde ela surgiu (para humanos), iremos acompanhar a história desde a primeira programadora Ada Lovelace e seu desejo do salto condicional para a abstração emulada pela matemática em uma máquina que não pensa."
+
+#### **Não faça do zero**
+
+"Alguns cases para evitar de refazer as coisas do zero. Exemplos baseados em C C++ para Windows. Porque nem sempre fazer do zero é a melhor opção."
+
+#### **c++ dentro da publicidade, arquitetura e design**
+
+"Nesta palestra pretendo falar sobre o que é creative coding, mostrar alguns projetos que participei escrevendo c++ com a ajuda de bibliotecas como Cinder e Openframeworks. Projetos que vão desde controlar faróis de carros dentro de uma sala de cinema a telas touch screen e OpenGl."
+
 
 ## Inscrições
 
