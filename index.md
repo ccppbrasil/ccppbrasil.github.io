@@ -13,9 +13,9 @@ Para tirar dúvidas sobre a linguagem e tecnologias relacionadas entre em [nosso
 
 ---
 
-Nosso próximo encontro acontecerá em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), no [Station Vila Olímpia](http://www.stationct.com.br/unidade-vila-olimpia/):
+ATENÇÃO! Nosso próximo encontro, que aconteceria em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), está postergado por falta de quórum! Não compareça e aguarde por instruções.
 
-Se inscreva agora no nosso [hot site](/encontros/proximo)!
+Se você já se inscreveu, aguarde que iremos reembolsá-lo.
 
 ---
 
