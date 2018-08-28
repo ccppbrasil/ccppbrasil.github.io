@@ -80,13 +80,13 @@ published: true
 # Machine Learning
 
 - [libtext_bayes](https://github.com/CoolerVoid/libtext_bayes) - GPLv3: biblioteca para classificar textos usando naive bayes
--[libfast_knn](https://github.com/CoolerVoid/libfast_knn) - GPLv3: biblioteca para classificação usando KNN, faz uso  da lib   armadillo para ganhar performance, pode ser adaptado para o uso do BLAS e LAPACK. 
+- [libfast_knn](https://github.com/CoolerVoid/libfast_knn) - GPLv3: biblioteca para classificação usando KNN, faz uso  da lib   armadillo para ganhar performance, pode ser adaptado para o uso do BLAS e LAPACK. 
 
 # Bibliotecas diversas
 
 - [Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinâmica em linguagem C.
-
 - [TombPool](https://github.com/CoolerVoid/tombpool) - GPL3: Biblioteca para trabalhar com thread pool em linguagem C.
+- [litesimd](https://github.com/andrelrt/litesimd) - MIT: Biblioteca header-only para processamento SIMD com foco em algoritmos gerais, não em cálculos.
 
 # Outros
 
