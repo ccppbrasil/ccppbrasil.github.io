@@ -7,15 +7,16 @@ published: true
 
 # Blogs
 
-- http://www.1bit.com.br/
-- http://www.caloni.com.br/
-- http://www.driverentry.com.br/
-- https://nullonerror.org/
-- http://0fx66.com/
-- http://blog.ricbit.com/search/label/cpp
-- http://www.thradams.com/
-- https://fabiogaluppo.com/
-- http://walac.github.io/
+- [http://www.1bit.com.br/]
+- [http://www.caloni.com.br/]
+- [http://www.driverentry.com.br/]
+- [https://nullonerror.org/]
+- [http://0fx66.com/]
+- [http://blog.ricbit.com/search/label/cpp]
+- [http://www.thradams.com/]
+- [https://fabiogaluppo.com/]
+- [http://walac.github.io/]
+- [https://fegomes.com/]
 
 # Portais
 
