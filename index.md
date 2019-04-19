@@ -13,9 +13,9 @@ Para tirar dúvidas sobre a linguagem e tecnologias relacionadas entre em [nosso
 
 ---
 
-ATENÇÃO! Nosso próximo encontro, que aconteceria em São Paulo (capital) dia 25 de Novembro de 2017 (sábado), está postergado por falta de quórum! Não compareça e aguarde por instruções.
+### 14o. Encontro C/C++ em São Paulo
 
-Se você já se inscreveu, aguarde que iremos reembolsá-lo.
+Nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Vá no [hotsite](/encontros/proximo) para informações sobre inscrição e Call For Papers.
 
 ---
 
