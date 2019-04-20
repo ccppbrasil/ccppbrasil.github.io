@@ -21,6 +21,4 @@ As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). 
 
 ### Call for Papers
 
-Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/cfp/content.cgi?a=21794885). Se atente às datas limites para envio do abstract e do conteúdo.
-Nosso próximo encontro acontecerá em São Paulo (capital) dia 6 de Julho de 2019 (sábado), a lugar a ser confirmado.
-
+O espaço para o CFP está em aprovação. Por favor aguarde até liberarmos.
