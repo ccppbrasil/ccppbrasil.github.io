@@ -17,7 +17,7 @@ Foi definido recentemente no [nosso grupo de Telegram](https://t.me/ccppbrasil) 
 
 ### Inscrições
 
-As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). O pagamento poderá ser feito pelo PagSeguro neste link: [](https://pag.ae/7UPUvqBb1)
+As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). O pagamento poderá ser feito pelo PagSeguro neste link: [https://pag.ae/7UPUvqBb1](https://pag.ae/7UPUvqBb1)
 
 ### Call for Papers
 
