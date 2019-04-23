@@ -21,5 +21,5 @@ As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). 
 
 ### Call for Papers
 
-Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/cfp/14CCPPBR). Se atente às datas limites para envio do abstract e do conteúdo.
+Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/conferences/?conf=14ccppbr). Se atente às datas limites para envio do abstract e do conteúdo.
 
