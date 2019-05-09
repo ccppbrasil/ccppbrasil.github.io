@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "14° Encontro (próximo)"
+title: "14° Encontro de Programadores C & C++ do Brasil"
 published: true
 ---
-# 14° Encontro de Programadores C & C++ do Brasil
+![](/encontros/images/ccppbrasil-logo.png)
 
 *Última atualização: 2019-05-08*
 
