@@ -3,7 +3,7 @@ layout: page
 title: "14° Encontro de Programadores C & C++ do Brasil"
 published: true
 ---
-![](/encontros/images/ccppbrasil-logo.png)
+![](/encontros/images/Banner_Encontro_CCPP.png)
 
 *Última atualização: 2019-05-08*
 
