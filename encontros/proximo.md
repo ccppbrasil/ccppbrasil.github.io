@@ -29,6 +29,8 @@ As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). 
 
 Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/conferences/?conf=14ccppbr). Se atente às datas limites para envio do abstract e do conteúdo.
 
+Se está interessado em escolher as palestrar [vote aqui](https://forms.gle/h7b7f7GNQMUW9gvZ9).
+
 ### Apoio
 
 Esse encontro não seria possível sem a ajuda da [C6 Bank](https://www.c6bank.com.br/), que disponibizou o local para que seja feito nosso evento =)
