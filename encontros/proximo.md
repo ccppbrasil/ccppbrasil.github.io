@@ -31,6 +31,8 @@ Se está interessado em palestrar envie sua proposta na [página do CFP](https:/
 
 Se está interessado em escolher as palestrar [vote aqui](https://forms.gle/h7b7f7GNQMUW9gvZ9).
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5AtS-FuxFOdYoiM2HUWpa3ftcLck4Q_NF8DVQJc3VlqugmQo593nTqkjNfulT7uSP6qKd1iFqJ-mw/pubchart?oid=1960730832&amp;format=interactive"></iframe>
+
 ### Apoio
 
 Esse encontro não seria possível sem a ajuda da [C6 Bank](https://www.c6bank.com.br/), que disponibizou o local para que seja feito nosso evento =)
