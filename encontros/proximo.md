@@ -5,7 +5,7 @@ published: true
 ---
 Em uma parceria entre o Grupo C/C++ Brasil e o banco digital [C6 Bank](https://www.c6bank.com.br/) estaremos realizando nosso décimo-quarto encontro em SP, Capital, no dia 6 de julho de 2019. Detalhes sobre inscrição e enviar sua palestra abaixo.
 
-![](/encontros/images/Marca_C6BANK_negativo.png)
+![](/encontros/images/Marca_C6BANK_positivo.png)
 
 *Última atualização: 2019-07-01*
 
