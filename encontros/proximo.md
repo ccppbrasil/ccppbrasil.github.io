@@ -7,9 +7,7 @@ published: true
 
 Em uma parceria entre o Grupo C/C++ Brasil e o banco digital [C6 Bank](https://www.c6bank.com.br/) estaremos realizando nosso décimo-quarto encontro em SP, Capital, no dia 6 de julho de 2019. Detalhes sobre inscrição e enviar sua palestra abaixo.
 
-![](/encontros/images/Marca_C6BANK_positivo.png)
-
-*Última atualização: 2019-05-15*
+*Última atualização: 2019-07-01*
 
 Foi definido recentemente no [nosso grupo de Telegram](https://t.me/ccppbrasil) que nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Dessa vez estaremos iniciando a organização pela seguinte ordem: primeiro iniciaremos as incrições, e, havendo quórum (spoiler: já há), será feita alocação de sala(s) (spoiler: já foi) e coffee-break (já estamos programando). Em paralelo iniciaremos o call for papers (leia abaixo), onde você é convidado a palestrar em nosso encontro =)
 
@@ -23,15 +21,23 @@ Foi definido recentemente no [nosso grupo de Telegram](https://t.me/ccppbrasil) 
 
 ### Inscrições
 
-As inscrições terão o preço inicial definido em R$ 30,00 (trinta taoqueis). O pagamento poderá ser feito pelo PagSeguro neste link: [https://pag.ae/7UPUvqBb1](https://pag.ae/7UPUvqBb1)
+As inscrições estão no final; faça pelo PagSeguro neste link [https://pag.ae/7V2p22Jpm](https://pag.ae/7V2p22Jpm) ou pessoalmente na entrada do evento.
 
-### Call for Papers
+## Programação (Última atualização: 2019-07-01)
 
-Se está interessado em palestrar envie sua proposta na [página do CFP](https://easychair.org/conferences/?conf=14ccppbr). Se atente às datas limites para envio do abstract e do conteúdo.
-
-Se está interessado em escolher as palestrar [vote aqui](https://forms.gle/h7b7f7GNQMUW9gvZ9).
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5AtS-FuxFOdYoiM2HUWpa3ftcLck4Q_NF8DVQJc3VlqugmQo593nTqkjNfulT7uSP6qKd1iFqJ-mw/pubchart?oid=1960730832&amp;format=interactive"></iframe>
+| Hora  | Descrição                                    | Detalhes | downloads
+| 08:30 | Welcome Coffee                               | 
+| 09:15 | Abertura do Evento                           | 
+| 09:30 | Concepts                                     | [Walter Mascarenhas](http://www.ime.usp.br/~walterfm) |
+| 10:45 | C/C++ Cross Development with Containers      | [Matheus Castello](http://www.castello.eng.br/) |
+| 12:00 | Intervalo para Almoço                        |
+| 13:45 | Conan, o gerente de pacotes C++              | [Uilian Ries](https://uilianries.github.io/) |
+| 14:45 | Lightning talk: Mercado C++ no exterior      | André Tupinambá |
+| 15:00 | #include <algorithm>                         | [Fabio Galuppo](https://github.com/fabiogaluppo) |
+| 16:30 | Coffee Break                                 |
+| 16:45 | Instruções SIMD para comparação              | André Tupinambá |
+| 17:45 | Encerramento do Evento                       | 
+| 18:00 | Código nativo com lua e escravizando o JIT   | Vinícius Oliveira |
 
 ### Apoio
 
