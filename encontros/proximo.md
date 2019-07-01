@@ -37,7 +37,7 @@ As inscrições estão no final; faça pelo PagSeguro neste link [https://pag.ae
 | 16:30 | Coffee Break                                 |
 | 16:45 | Instruções SIMD para comparação              | André Tupinambá |
 | 17:45 | Encerramento do Evento                       | 
-| 18:00 | Código nativo com lua e escravizando o JIT   | Vinícius Oliveira |
+| 18:00 | Código nativo com lua e escravizando o JIT   | Vinícius Oliveira (dependendo das condições metereológicas) |
 
 ### Apoio
 
