@@ -32,10 +32,10 @@ As inscrições estão no final; faça pelo PagSeguro neste link [https://pag.ae
 | 10:45 | C/C++ Cross Development with Containers          | [Matheus Castello](http://www.castello.eng.br/) |
 | 12:00 | Intervalo para Almoço                            |
 | 13:45 | Conan, o gerente de pacotes C++                  | [Uilian Ries](https://uilianries.github.io/) |
-| 14:45 | Lightning talk: Mercado C++ no exterior          | André Tupinambá |
+| 14:45 | Lightning talk: Mercado C++ no exterior          | [André Tupinambá](https://github.com/andrelrt) |
 | 15:00 | #include &lt;algorithm&gt;                       | [Fabio Galuppo](https://github.com/fabiogaluppo) |
 | 16:30 | Coffee Break                                     |
-| 16:45 | Instruções SIMD para comparação                  | André Tupinambá |
+| 16:45 | Instruções SIMD para comparação                  | [André Tupinambá](https://github.com/andrelrt) |
 | 17:45 | Encerramento do Evento                           | 
 | 18:00 | ~~Código nativo com lua e escravizando o JIT~~   | Vinícius Oliveira (dependendo das condições metereológicas) |
 
