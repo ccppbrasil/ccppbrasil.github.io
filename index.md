@@ -15,7 +15,7 @@ Para tirar dúvidas sobre a linguagem e tecnologias relacionadas entre em [nosso
 
 ### 14o. Encontro C/C++ em São Paulo
 
-Nosso próximo encontro será realizado na cidade de São Paulo no dia 6 de julho de 2019. Vá no [hotsite](/encontros/proximo) para informações sobre inscrição e Call For Papers.
+Nosso próximo encontro foi realizado na cidade de São Paulo no dia 6 de julho de 2019. Mais informações sobre as palestras na [página de encontros](/encontros/encontros) para informações sobre inscrição e Call For Papers. Até o [próximo](/encontros/proximo) ;).
 
 ---
 

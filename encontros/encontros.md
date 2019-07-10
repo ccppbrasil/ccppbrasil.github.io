@@ -69,7 +69,57 @@ images:
     - /public/img/encontros/13/05.jpg
     - /public/img/encontros/13/06.jpg
     - /public/img/encontros/13/07.jpg
+  "encontro-14":
+    - /public/img/encontros/14/01.jpg
+    - /public/img/encontros/14/02.jpg
+    - /public/img/encontros/14/03.jpg
+    - /public/img/encontros/14/04.jpg
+    - /public/img/encontros/14/05.jpg
+    - /public/img/encontros/14/06.jpg
+    - /public/img/encontros/14/07.jpg
+    - /public/img/encontros/14/08.jpg
 ---
+## 14° Encontro de Programadores C & C++ do Brasil
+
+{% assign images = page.images.encontro-14 %} {% include flexslider.html %}
+
+### Quando
+```
+06 de Julho de 2019, sábado.
+```
+
+### Local
+```
+C6 Bank – Auditório Carbon (8º andar)
+Av. Nove de Julho, 3186
+Jardim Paulista
+São Paulo, SP
+CEP 01406-000
+```
+
+[Fotos](https://photos.app.goo.gl/7DwP7BjXeCA7fPN69)
+
+### Programação
+
+| Hora  | Descrição                                        | Detalhes | downloads
+| 08:30 | Welcome Coffee                                   | 
+| 09:15 | Abertura do Evento                               | 
+| 09:30 | Concepts                                         | [Walter Mascarenhas](http://www.ime.usp.br/~walterfm) |
+| 10:45 | C/C++ Cross Development with Containers          | [Matheus Castello](http://www.castello.eng.br/) |
+| 12:00 | Intervalo para Almoço                            |
+| 13:45 | Conan, o gerente de pacotes C++                  | [Uilian Ries](https://uilianries.github.io/) |
+| 14:45 | Lightning talk: Mercado C++ no exterior          | André Tupinambá |
+| 15:00 | #include &lt;algorithm&gt;                       | [Fabio Galuppo](https://github.com/fabiogaluppo) |
+| 16:30 | Coffee Break                                     |
+| 16:45 | Instruções SIMD para comparação                  | André Tupinambá |
+| 17:45 | Encerramento do Evento                           | 
+| 18:00 | ~~Código nativo com lua e escravizando o JIT~~   | Vinícius Oliveira (dependendo das condições metereológicas) |
+
+### Conteúdo
+
+O conteúdo deve estar centralizado como submódulos do [repositório do encontro](https://github.com/ccppbrasil/encontro14).
+
+
 
 ## 13° Encontro (Relâmpago) de Programadores C & C++ do Brasil
 
@@ -87,6 +137,8 @@ Vila Vitória, Indaiatuba - SP
 13338-010 
 (ao lado da Rodovia Santos Dumont)
 ```
+
+[Fotos](https://photos.app.goo.gl/7DwP7BjXeCA7fPN69)
 
 ### Programação
 
@@ -150,6 +202,8 @@ O conteúdo deve estar centralizado como submódulos do [repositório do encontr
 ## 11° Encontro de Programadores C & C++ do Brasil
 
 {% assign images = page.images.encontro-11 %} {% include flexslider.html %}
+
+[Fotos](https://photos.app.goo.gl/RdPWxyA65Vcdbp879)
 
 ### Local
 **Microsoft Brasil**
@@ -297,6 +351,8 @@ Microsoft Informática Ltda
 Av. Nações Unidas, 12.901 - Torre Norte - 31° andar
 Auditórios 1 e 2
 
+[Fotos](https://photos.app.goo.gl/tScQnf1kaUBbaH2y5)
+
 ### Data
 04/10/2008
 
@@ -345,6 +401,8 @@ APEOSP
 
 Praça da República
 
+[Fotos](https://photos.app.goo.gl/74eP3LJH2kwwqcnn7)
+
 ### Data
 19/01/2008
 
@@ -365,6 +423,8 @@ Casa do Espeto - São Paulo - SP
 ### Data
 25/03/2006
 
+[Fotos](https://photos.app.goo.gl/DYjffXbX1G8riqKf9)
+
 | Atividade                                                                    | Palestrante       |
 |------------------------------------------------------------------------------|-------------------|
 | Conversa informal                                                            | Todos             |
@@ -378,6 +438,8 @@ Outback Shopping Eldorado
 
 ### Data
 17/12/2005
+
+[Fotos](https://photos.app.goo.gl/4Y3CK8mVJgU76hFr9)
 
 | Atividade                                                                    | Palestrante       |
 |------------------------------------------------------------------------------|-------------------|
