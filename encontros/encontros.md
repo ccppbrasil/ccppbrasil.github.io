@@ -107,7 +107,7 @@ CEP 01406-000
 | 09:30 | [Concepts](/public/lectures/14ccpp/cpp20.pdf) (PDF)     | [Walter Mascarenhas](http://www.ime.usp.br/~walterfm) |
 | 10:45 | [C/C++ Cross Development with Containers](/public/lectures/14ccpp/cross-dev) (Código e Apresentação)          | [Matheus Castello](http://www.castello.eng.br/) |
 | 12:00 | Intervalo para Almoço                            |
-| 13:45 | Conan, o gerente de pacotes C++                  | [Uilian Ries](https://uilianries.github.io/) |
+| 13:45 | [Conan, o gerente de pacotes C++](https://gitpitch.com/uilianries/gitpitch-conan/pt-br) | [Uilian Ries](https://uilianries.github.io/) |
 | 14:45 | Lightning talk: Mercado C++ no exterior          | [André Tupinambá](https://github.com/andrelrt/) |
 | 15:00 | #include &lt;algorithm&gt;                       | [Fabio Galuppo](https://github.com/fabiogaluppo) |
 | 16:30 | Coffee Break                                     |
