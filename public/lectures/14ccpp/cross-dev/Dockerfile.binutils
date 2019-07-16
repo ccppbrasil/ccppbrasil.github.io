@@ -1,0 +1,18 @@
+FROM arm32v7/debian:buster-slim 
+
+RUN apt-get -y update && apt-get install -y \
+	libc6 \
+	libc6-dev \
+	binutils \
+	make \
+	cmake \
+	clang \
+	gcc g++ \
+	git \
+	python \
+	pkg-config \
+	libx11-dev libgl1-mesa-dev \
+	libjpeg-dev libpng-dev \
+	libwayland-client0 libwayland-dev \
+	&& apt-get clean && apt-get autoremove && rm -rf /var/lib/apt/lists/*
+

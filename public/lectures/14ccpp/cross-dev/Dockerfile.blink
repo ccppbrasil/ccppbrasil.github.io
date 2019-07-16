@@ -1,0 +1,24 @@
+FROM matheuscastello/binutils-deb AS Build
+
+# install dependencies
+RUN apt-get -y update && apt-get install -y \
+	libgpiod2 \
+	libgpiod-dev \
+	&& apt-get clean && apt-get autoremove && rm -rf /var/lib/apt/lists/*
+
+# copy project source 
+COPY hello_blink.c hello_blink.c
+
+# compile
+RUN gcc -o blink hello_blink.c -lgpiod
+
+FROM arm32v7/debian:buster-slim AS Deploy
+
+# install dependencies
+RUN apt-get -y update && apt-get install -y \
+	libgpiod2 \
+	&& apt-get clean && apt-get autoremove && rm -rf /var/lib/apt/lists/*
+
+COPY --from=Build blink blink
+
+CMD [ "./blink" ]
