@@ -14,6 +14,9 @@ published: true
 - [PEV](http://sourceforge.net/projects/pev/) - GPLv3: PE analysis toolkit com utilitários específicos para análise de malware.
 - [StJude/StMichael](http://sourceforge.net/projects/stjude/) BSD: - O StJude/StMichael Project é um IDS Kernel-Level para proteger a integridade de um host.
 - [T50](http://t50.sourceforge.net/) - GNUv2: Injetor de pacotes multi-protocolo para sistemas *nix, suportando atualmente 15 protocolos.
+- [Heap Detective](https://github.com/CoolerVoid/heap_detective) - BSD: Encontre anomalias na memória heap através de analise estática.
+- [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - BSD: Gerador de firewall oculto no kernel do linux, podendo ter um firewall em camada adicional. 
+- [OctopusWAF](https://github.com/CoolerVoid/OctopusWAF) - GPLv3: Web application firewall com alta performance faz uso da libevent(epoll(),kqueue()).
 - [0d1n](https://github.com/CoolerVoid/0d1n) - GPLv3: Ferramenta para fuzzing no protocolo HTTP/s. 
 - [Raptor](https://github.com/CoolerVoid/raptor_waf) - GPLv3: Firewall para web que faz uso de automato finito deterministico. 
 - [Diamorphine](https://github.com/m0nad/Diamorphine) - Diamorphine é um LKM rootkit para Linux Kernels 2.6.x/3.x/4.x
@@ -50,7 +53,7 @@ published: true
 
 - [File Depends](http://www.thradams.com/codeblog/filedepends.htm): ferramenta que mostra os arquivos .h e suas dependências.
 - [dbf2txt](https://github.com/bcsanches/dbf2txt) - zlib: Ferramenta para extrair dados de arquivos db2 em formato texto.
-- [codewarrior](https://github.com/CoolerVoid/codewarrior) - GPLv3: ferramenta para ajudar em code review e code walk
+- [codewarrior](https://github.com/CoolerVoid/codewarrior) - GPLv3: ferramenta para ajudar em code review e code walking.
 - [arit_eval](https://github.com/CoolerVoid/arit_eval) - BSD2: Avaliador de expressões aritméticas, faz uso de recursos anti-integer-overflow. 
 
 # Desktop
@@ -84,7 +87,7 @@ published: true
 
 # Bibliotecas diversas
 
-- [Ice_vector](https://github.com/CoolerVoid/ice_vector) - BSD3: biblioteca para trabalhar com vetores de  forma dinâmica em linguagem C.
+- [Fortress-of-Solitude](https://github.com/CoolerVoid/Fortress-of-Solitude) - BSD3: repositório com bibliotécas diversas feito do zero para trabalhar de forma profissional com filas, pilhas, listas duplamente encadeada e até arvores.
 - [TombPool](https://github.com/CoolerVoid/tombpool) - GPL3: Biblioteca para trabalhar com thread pool em linguagem C.
 - [litesimd](https://github.com/andrelrt/litesimd) - MIT: Biblioteca header-only para processamento SIMD com foco em algoritmos gerais, não em cálculos.
 
